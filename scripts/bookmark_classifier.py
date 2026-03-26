@@ -1,361 +1,326 @@
 #!/usr/bin/env python3
 """
 AI Bookmark Classifier
-Intelligently categorizes bookmarks based on title and URL patterns.
+Uses pattern matching and ML-like heuristics to intelligently categorize bookmarks
+based on actual user bookmark patterns.
 """
 
 import json
 import re
 from urllib.parse import urlparse
 from collections import defaultdict
+from typing import Dict, List, Tuple
 
 
-# 分類規則定義
-CATEGORY_RULES = {
-    # 前端框架
-    'Frontend/React': [
-        r'react', r'reactjs', r'react\.js', r'react-native', r'react native', r'react router', 
-        r'redux', r'next\.?js', r'gatsby', r'create-react-app', r'jsx', r'hook',
-        r'react hooks', r'useeffect', r'usestate', r'context api'
-    ],
-    'Frontend/Vue': [
-        r'vue', r'vuejs', r'vue\.js', r'vuex', r'vue router', r'vue-cli', r'nuxt',
-        r'composition api', r'pinia', r'vee-validate'
-    ],
-    'Frontend/Angular': [
-        r'angular', r'angularjs', r'ng-', r'rxjs angular', r'angular cli'
-    ],
-    'Frontend/General': [
-        r'javascript', r'js', r'frontend', r'front-end', r'html', r'css', 
-        r'typescript', r'ts', r'webpack', r'babel', r'vite', r'rollup',
-        r'npm', r'yarn', r'pnpm', r'eslint', r'prettier', r'postcss',
-        r'tailwind', r'bootstrap', r'sass', r'less', r'styled-components'
-    ],
+class BookmarkClassifier:
+    """Intelligent bookmark classifier based on user patterns."""
     
-    # 後端
-    'Backend/Node.js': [
-        r'node\.?js', r'express', r'koa', r'nestjs', r'fastify', r'eggjs',
-        r'npm package', r'node module'
-    ],
-    'Backend/Python': [
-        r'python', r'django', r'flask', r'fastapi', r'pytorch', r'tensorflow',
-        r'pandas', r'numpy', r'scikit', r'jupyter'
-    ],
-    'Backend/Java': [
-        r'java', r'spring', r'springboot', r'spring boot', r'hibernate',
-        r'maven', r'gradle', r'kotlin backend', r'ktor'
-    ],
-    'Backend/Go': [
-        r'golang', r'go\s+lang', r'gin', r'echo', r'beego', r'fiber'
-    ],
-    'Backend/Database': [
-        r'mysql', r'postgresql', r'mongodb', r'redis', r'elasticsearch',
-        r'database', r'sql', r'nosql', r'orm', r'prisma', r'sequelize'
-    ],
-    'Backend/API': [
-        r'rest api', r'graphql', r'api design', r'openapi', r'swagger',
-        r'postman', r'json api', r'webhook'
-    ],
-    
-    # 移動開發
-    'Mobile/iOS-Swift': [
-        r'swift', r'swiftui', r'ios', r'xcode', r'uikit', r'coredata',
-        r'combine', r'rxswift', r'alamofire', r'cocoapods', r'swift package',
-        r'app store', r'testflight', r'apple developer'
-    ],
-    'Mobile/Android': [
-        r'android', r'kotlin', r'java android', r'jetpack compose', r'gradle android',
-        r'android studio', r'firebase android'
-    ],
-    'Mobile/React Native': [
-        r'react native', r'expo', r'rn ', r'react-native'
-    ],
-    'Mobile/Flutter': [
-        r'flutter', r'dart'
-    ],
-    
-    # DevOps & 工具
-    'DevOps/Docker': [
-        r'docker', r'container', r'kubernetes', r'k8s', r'helm', r'dockerfile',
-        r'docker compose', r'containerization'
-    ],
-    'DevOps/CI-CD': [
-        r'github action', r'ci/cd', r'gitlab ci', r'jenkins', r'travis',
-        r'circleci', r'deployment', r'automation'
-    ],
-    'DevOps/Cloud': [
-        r'aws', r'amazon web', r'azure', r'gcp', r'google cloud', r'cloudflare',
-        r'vercel', r'netlify', r'heroku', r'linode', r'digitalocean'
-    ],
-    'DevOps/Git': [
-        r'git', r'github', r'gitlab', r'version control', r'git flow',
-        r'git commit', r'pull request', r'merge conflict'
-    ],
-    
-    # AI & ML
-    'AI-ML/General': [
-        r'machine learning', r'artificial intelligence', r'deep learning',
-        r'neural network', r'llm', r'large language model', r'openai',
-        r'chatgpt', r'gpt', r'claude', r'ai ', r' ml ', r'machinelearning'
-    ],
-    'AI-ML/Models': [
-        r'transformer', r'bert', r'gpt-3', r'gpt-4', r'llama', r'stable diffusion',
-        r'huggingface', r'hugging face', r'pytorch', r'tensorflow'
-    ],
-    
-    # 開發工具
-    'Tools/IDE': [
-        r'vscode', r'visual studio code', r'jetbrains', r'webstorm', r'pycharm',
-        r'intellij', r'sublime', r'atom', r'vim', r'neovim'
-    ],
-    'Tools/Design': [
-        r'figma', r'sketch', r'adobe xd', r'ui design', r'ux design',
-        r'prototyping', r'wireframe', r'mockup'
-    ],
-    
-    # 學習資源
-    'Learning/Tutorials': [
-        r'tutorial', r'教學', r'入門', r'guide', r'getting started',
-        r'learn ', r'course', r'lesson', r'crash course'
-    ],
-    'Learning/Documentation': [
-        r'documentation', r'docs', r'reference', r'api doc', r'official doc'
-    ],
-    
-    # 社群 & 論壇
-    'Community/Forums': [
-        r'stackoverflow', r'stack overflow', r'reddit', r'dev\.to',
-        r'medium', r'csdn', r'博客園', r'簡書', r'掘金', r'ithome',
-        r'it邦幫忙', r'v2ex', r'github issue', r'discussion'
-    ],
-    
-    # 資安
-    'Security': [
-        r'security', r'資安', r'cybersecurity', r'encryption', r'oauth',
-        r'jwt', r'authentication', r'authorization', r'vulnerability',
-        r'penetration test', r'駭客', r'加密', r'防火牆'
-    ],
-    
-    # 其他
-    'Other/Video': [
-        r'youtube', r'vimeo', r'bilibili', r'video', r'watch'
-    ],
-    'Other/Social': [
-        r'twitter', r'x\.com', r'linkedin', r'facebook', r'instagram'
-    ],
-    
-    # 圖書館 & 學術
-    'Library/Systems': [
-        r'圖書', r'library', r'opac', r'mitopac', r'webopac', r'編目',
-        r'bookhouse', r'weblink', r'採訪', r'推薦', r'借閱', r'catalog'
-    ],
-    
-    # 中文技術社群
-    'Community/Chinese-Tech': [
-        r'簡書', r'jianshu', r'掘金', r'juejin', r'csdn', r'博客園',
-        r'ithome', r'it邦幫忙', r'it幫幫忙', r'鐵人賽', r'彼得潘',
-        r'程式人', r'軟體', r'開發', r'技術'
-    ],
-    
-    # 設計模式 & 架構
-    'Architecture/Patterns': [
-        r'mvvm', r'mvc', r'mvp', r'設計模式', r'design pattern',
-        r'architecture', r'架構', r'重構', r'refactor', r'clean code',
-        r'solid', r'依賴注入', r'dependency injection'
-    ],
-    
-    # 測試
-    'Testing': [
-        r'unit test', r'integration test', r'e2e', r'jest', r'vitest',
-        r'cypress', r'playwright', r'selenium', r'tdd', r'測試',
-        r'自動化測試', r'qa', r'quality assurance'
-    ],
-    
-    # 實用工具
-    'Tools/Utilities': [
-        r'json', r'converter', r'formatter', r'beautifier', r'minifier',
-        r'generator', r'online tool', r'倒數', r'timer', r'計時器',
-        r'calculator', r'轉換', r'工具'
-    ],
-}
-
-
-def classify_bookmark(title: str, url: str) -> str:
-    """根據標題和 URL 分類書籤。"""
-    text = f"{title} {url}".lower()
-    
-    scores = defaultdict(int)
-    
-    for category, patterns in CATEGORY_RULES.items():
-        for pattern in patterns:
-            if re.search(pattern, text, re.IGNORECASE):
-                scores[category] += 1
-    
-    if scores:
-        # 返回得分最高的分類
-        return max(scores.items(), key=lambda x: x[1])[0]
-    
-    # 預設分類：根據域名
-    domain = urlparse(url).netloc.lower()
-    
-    if 'github.com' in domain:
-        return 'Development/GitHub'
-    elif 'stackoverflow.com' in domain:
-        return 'Community/StackOverflow'
-    elif 'medium.com' in domain:
-        return 'Community/Medium'
-    elif 'youtube.com' in domain:
-        return 'Other/Video'
-    elif any(x in domain for x in ['apple.com', 'developer.apple.com']):
-        return 'Mobile/iOS-Swift'
-    elif 'google.com' in domain:
-        return 'Tools/Google'
-    elif 'jianshu.com' in domain:
-        return 'Community/Chinese-Tech'
-    elif 'juejin.cn' in domain:
-        return 'Community/Chinese-Tech'
-    elif 'csdn.net' in domain:
-        return 'Community/Chinese-Tech'
-    elif 'ithome.com.tw' in domain:
-        return 'Community/Chinese-Tech'
-    elif 'ithelp.ithome.com.tw' in domain:
-        return 'Community/Chinese-Tech'
-    elif 'tpisoftware.com' in domain:
-        return 'Community/Chinese-Tech'
-    elif 'localhost' in domain:
-        return 'Development/Localhost'
-    elif 'chrome-extension' in url or 'chrome://' in url:
-        return 'Browser/Extensions'
-    elif re.search(r'\d+\.\d+\.\d+\.\d+', domain):
-        return 'Network/Internal-IP'
-    
-    return 'Uncategorized'
-
-
-def organize_bookmarks(bookmarks: list) -> dict:
-    """重新組織書籤。"""
-    organized = defaultdict(list)
-    
-    for bm in bookmarks:
-        category = classify_bookmark(
-            bm.get('title', ''),
-            bm.get('url', '')
-        )
+    def __init__(self):
+        # User's actual technology stack (from bookmark analysis)
+        self.tech_stack = {
+            'frontend': ['react', 'nextjs', 'next.js', 'vue', 'angular', 'svelte', 'html', 'css', 'tailwind'],
+            'mobile': ['swift', 'ios', 'android', 'kotlin', 'react native', 'rn', 'flutter', 'xamarin'],
+            'backend': ['nodejs', 'node.js', 'python', 'java', 'c#', 'go', 'rust', 'api', 'rest', 'graphql'],
+            'database': ['sql', 'mysql', 'postgresql', 'mongodb', 'firebase', 'supabase', 'redis', 'elasticsearch'],
+            'devops': ['docker', 'kubernetes', 'ci/cd', 'jenkins', 'github actions', 'gitlab', 'aws', 'gcp', 'azure'],
+            'security': ['security', '資安', 'mb3', 'encryption', 'auth', 'oauth', 'jwt', 'ssl', 'tls'],
+            'testing': ['test', 'jest', 'pytest', 'mocha', 'cypress', 'selenium', 'unit test', 'e2e'],
+            'tools': ['git', 'webpack', 'vite', 'npm', 'yarn', 'pnpm', 'eslint', 'prettier', 'typescript'],
+        }
         
-        # 保留原始資訊，更新分類
-        new_bm = bm.copy()
-        new_bm['new_folder'] = category
-        new_bm['original_folder'] = bm.get('folder', '')
-        organized[category].append(new_bm)
-    
-    return dict(organized)
-
-
-def generate_html(organized: dict, output_path: str):
-    """生成重新分類後的 HTML 書籤檔案。"""
-    lines = [
-        '<!DOCTYPE NETSCAPE-Bookmark-file-1>',
-        '<!-- This is an automatically generated file. -->',
-        f'<!-- Generated: {__import__("datetime").datetime.now().isoformat()} -->',
-        '<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">',
-        '<TITLE>Bookmarks - AI Organized</TITLE>',
-        '<H1>Bookmarks</H1>',
-        '<DL><p>',
-        ''
-    ]
-    
-    # 按分類排序
-    for category in sorted(organized.keys()):
-        bookmarks = organized[category]
+        # Domain to category mapping (comprehensive)
+        self.domain_categories = {
+            # Development Platforms
+            'github.com': '開發資源/GitHub',
+            'gitlab.com': '開發資源/GitLab',
+            'bitbucket.org': '開發資源/Bitbucket',
+            
+            # Q&A & Documentation
+            'stackoverflow.com': '開發資源/Stack Overflow',
+            'developer.mozilla.org': '開發資源/MDN',
+            'docs.microsoft.com': '開發資源/Microsoft Docs',
+            'developer.apple.com': 'Apple開發/官方文件',
+            
+            # Technical Articles & Blogs
+            'medium.com': '技術文章/Medium',
+            'dev.to': '技術文章/Dev.to',
+            'hashnode.com': '技術文章/Hashnode',
+            'blog.csdn.net': '中文技術/CSDN',
+            'www.cnblogs.com': '中文技術/博客園',
+            'juejin.cn': '中文技術/掘金',
+            'segmentfault.com': '中文技術/SegmentFault',
+            'www.jianshu.com': '中文技術/簡書',
+            'ithelp.ithome.com.tw': '學習資源/iT邦幫忙',
+            
+            # Official Documentation
+            'react.dev': 'React/官方文件',
+            'reactjs.org': 'React/官方文件',
+            'nextjs.org': 'React/Next.js',
+            'vuejs.org': 'Vue/官方文件',
+            'angular.io': 'Angular/官方文件',
+            'swift.org': 'Apple開發/Swift',
+            'kotlinlang.org': 'Kotlin/官方文件',
+            'nodejs.org': 'JavaScript/Node.js',
+            'python.org': 'Python/官方文件',
+            'golang.org': 'Go/官方文件',
+            'rust-lang.org': 'Rust/官方文件',
+            
+            # Package Managers & Libraries
+            'npmjs.com': 'JavaScript/NPM',
+            'pypi.org': 'Python/PyPI',
+            'crates.io': 'Rust/Crates',
+            'maven.apache.org': 'Java/Maven',
+            'cocoapods.org': 'Apple開發/CocoaPods',
+            
+            # Learning Platforms
+            'www.udemy.com': '學習資源/Udemy',
+            'www.coursera.org': '學習資源/Coursera',
+            'www.youtube.com': '影音學習/YouTube',
+            'www.bilibili.com': '影音學習/Bilibili',
+            'www.skillshare.com': '學習資源/Skillshare',
+            
+            # Cloud Platforms
+            'aws.amazon.com': '雲服務/AWS',
+            'cloud.google.com': '雲服務/GCP',
+            'azure.microsoft.com': '雲服務/Azure',
+            'vercel.com': '雲服務/Vercel',
+            'netlify.com': '雲服務/Netlify',
+            'heroku.com': '雲服務/Heroku',
+            'digitalocean.com': '雲服務/DigitalOcean',
+            
+            # Backend Services
+            'firebase.google.com': '後端/Firebase',
+            'supabase.com': '後端/Supabase',
+            'mongodb.com': '資料庫/MongoDB',
+            'www.postgresql.org': '資料庫/PostgreSQL',
+            'www.mysql.com': '資料庫/MySQL',
+            'redis.io': '資料庫/Redis',
+            
+            # Design & UI
+            'figma.com': '設計/Figma',
+            'dribbble.com': '設計/Dribbble',
+            'www.sketch.com': '設計/Sketch',
+            'www.adobe.com': '設計/Adobe',
+            'uiverse.io': '設計/UI元件',
+            
+            # AI & ML
+            'chat.openai.com': 'AI工具/ChatGPT',
+            'claude.ai': 'AI工具/Claude',
+            'gemini.google.com': 'AI工具/Gemini',
+            'huggingface.co': 'AI工具/Hugging Face',
+            
+            # Development Tools
+            'codepen.io': '開發工具/CodePen',
+            'jsfiddle.net': '開發工具/JSFiddle',
+            'replit.com': '開發工具/Replit',
+            'glitch.com': '開發工具/Glitch',
+        }
         
-        lines.append(f'    <DT><H3>{category}</H3>')
-        lines.append('    <DL><p>')
+        # Keyword patterns for categorization
+        self.keyword_patterns = {
+            'React': ['react', 'jsx', 'hooks', 'redux', 'nextjs', 'next.js', 'gatsby'],
+            'Vue': ['vue', 'vuex', 'nuxt'],
+            'Angular': ['angular', 'typescript'],
+            'Swift': ['swift', 'swiftui', 'ios', 'macos', 'watchos'],
+            'Kotlin': ['kotlin', 'android'],
+            'JavaScript': ['javascript', 'js', 'es6', 'es2015', 'node.js', 'nodejs'],
+            'TypeScript': ['typescript', 'ts'],
+            'Python': ['python', 'django', 'flask', 'fastapi'],
+            'Java': ['java', 'spring', 'maven'],
+            'C#': ['c#', 'csharp', '.net', 'dotnet', 'mvc', 'asp.net'],
+            'Go': ['golang', 'go'],
+            'Rust': ['rust'],
+            'API': ['api', 'rest', 'graphql', 'grpc', 'websocket'],
+            'Database': ['database', 'sql', 'nosql', 'mongodb', 'postgresql', 'mysql', 'redis'],
+            'DevOps': ['docker', 'kubernetes', 'ci/cd', 'jenkins', 'github actions', 'gitlab ci'],
+            'Security': ['security', '資安', 'encryption', 'auth', 'oauth', 'jwt', 'ssl', 'tls', 'mb3'],
+            'Testing': ['test', 'jest', 'pytest', 'mocha', 'cypress', 'selenium'],
+            'Tools': ['git', 'webpack', 'vite', 'npm', 'yarn', 'eslint', 'prettier'],
+        }
+    
+    def classify(self, bookmark: Dict) -> str:
+        """Classify a single bookmark."""
+        url = bookmark.get('url', '').lower()
+        title = bookmark.get('title', '').lower()
+        folder = bookmark.get('folder', '').lower()
         
-        # 按標題排序書籤
-        for bm in sorted(bookmarks, key=lambda x: x.get('title', '').lower()):
-            title = bm.get('title', 'Untitled')
-            url = bm.get('url', '')
-            # HTML escape
-            title = title.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;').replace('"', '&quot;')
-            url = url.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;').replace('"', '&quot;')
-            lines.append(f'        <DT><A HREF="{url}">{title}</A>')
+        # 1. Check domain mapping first (highest priority)
+        category = self._classify_by_domain(url)
+        if category:
+            return category
         
-        lines.append('    </DL><p>')
-        lines.append('')
+        # 2. Check title keywords
+        category = self._classify_by_keywords(title)
+        if category:
+            return f'{category}/資源'
+        
+        # 3. Check URL keywords
+        category = self._classify_by_keywords(url)
+        if category:
+            return f'{category}/資源'
+        
+        # 4. Preserve meaningful folder structure
+        category = self._classify_by_folder(folder)
+        if category:
+            return category
+        
+        # 5. Default category
+        return '未分類'
     
-    lines.append('</DL><p>')
+    def _classify_by_domain(self, url: str) -> str:
+        """Classify by domain."""
+        try:
+            domain = urlparse(url).netloc.lower()
+            if domain.startswith('www.'):
+                domain = domain[4:]
+            
+            # Exact match
+            if domain in self.domain_categories:
+                return self.domain_categories[domain]
+            
+            # Partial match
+            for key_domain, category in self.domain_categories.items():
+                if key_domain in domain or domain in key_domain:
+                    return category
+        except:
+            pass
+        
+        return None
     
-    with open(output_path, 'w', encoding='utf-8') as f:
-        f.write('\n'.join(lines))
-
-
-def generate_report(organized: dict) -> str:
-    """生成分類報告。"""
-    report = []
-    report.append("=" * 60)
-    report.append("書籤 AI 分類報告")
-    report.append("=" * 60)
-    report.append("")
+    def _classify_by_keywords(self, text: str) -> str:
+        """Classify by keyword patterns."""
+        for category, keywords in self.keyword_patterns.items():
+            for keyword in keywords:
+                if keyword in text:
+                    return category
+        return None
     
-    total = sum(len(bms) for bms in organized.values())
-    report.append(f"總書籤數: {total}")
-    report.append(f"分類數: {len(organized)}")
-    report.append("")
+    def _classify_by_folder(self, folder: str) -> str:
+        """Classify by folder structure."""
+        if not folder or folder == '書籤列':
+            return None
+        
+        # Clean folder name
+        folder = folder.replace('書籤列/', '').strip()
+        
+        # Skip imported folders
+        if folder.startswith('已匯入'):
+            return None
+        
+        # Map known folders
+        folder_map = {
+            'react': 'React',
+            'nextjs': 'React/Next.js',
+            'next.js': 'React/Next.js',
+            'vue': 'Vue',
+            'angular': 'Angular',
+            'swift': 'Apple開發/Swift',
+            'ios': 'Apple開發/iOS',
+            'android': 'Android開發',
+            'kotlin': 'Kotlin',
+            'rn': 'React/React Native',
+            'react native': 'React/React Native',
+            'js': 'JavaScript',
+            'javascript': 'JavaScript',
+            'typescript': 'TypeScript',
+            'python': 'Python',
+            'java': 'Java',
+            'c#': 'C#',
+            'go': 'Go',
+            'rust': 'Rust',
+            'api': '後端/API',
+            'api core': '後端/API',
+            'database': '資料庫',
+            'sql': '資料庫/SQL',
+            'mongodb': '資料庫/MongoDB',
+            'docker': 'DevOps/Docker',
+            'kubernetes': 'DevOps/Kubernetes',
+            'git': '開發工具/Git',
+            'webpack': '開發工具/Webpack',
+            'vite': '開發工具/Vite',
+            'security': '資安',
+            '資安': '資安',
+            'mb3': '資安/MB3',
+            'mb3 資安': '資安/MB3',
+            'shms': 'SHMS系統',
+            'shms7_api': 'SHMS系統/API',
+            'test': '測試',
+            'testing': '測試',
+        }
+        
+        folder_lower = folder.lower()
+        for key, category in folder_map.items():
+            if key in folder_lower:
+                return category
+        
+        # Return original folder if meaningful
+        if len(folder) > 2 and not folder.startswith('已匯入'):
+            return folder
+        
+        return None
     
-    # 按書籤數量排序
-    sorted_categories = sorted(
-        organized.items(),
-        key=lambda x: -len(x[1])
-    )
+    def classify_batch(self, bookmarks: List[Dict]) -> Dict[str, List[Dict]]:
+        """Classify multiple bookmarks."""
+        categorized = defaultdict(list)
+        
+        for bm in bookmarks:
+            category = self.classify(bm)
+            categorized[category].append(bm)
+        
+        # Sort categories and bookmarks
+        organized = {}
+        for category in sorted(categorized.keys()):
+            organized[category] = sorted(
+                categorized[category],
+                key=lambda x: x.get('title', '').lower()
+            )
+        
+        return organized
     
-    for category, bookmarks in sorted_categories:
-        report.append(f"📁 {category}: {len(bookmarks)} 個書籤")
-    
-    report.append("")
-    report.append("=" * 60)
-    
-    return '\n'.join(report)
+    def get_category_stats(self, organized: Dict) -> List[Tuple[str, int]]:
+        """Get category statistics."""
+        stats = [(cat, len(bms)) for cat, bms in organized.items()]
+        return sorted(stats, key=lambda x: -x[1])
 
 
 def main():
     import argparse
     
     parser = argparse.ArgumentParser(description='AI Bookmark Classifier')
-    parser.add_argument('input', help='Input JSON file')
-    parser.add_argument('--output-html', default='bookmarks_organized.html', help='Output HTML file')
-    parser.add_argument('--output-json', help='Output JSON file')
-    parser.add_argument('--report', action='store_true', help='Show classification report')
+    parser.add_argument('input', help='Input JSON file from bookmark_parser.py')
+    parser.add_argument('--output', default='classified.json', help='Output JSON file')
+    parser.add_argument('--stats', action='store_true', help='Show statistics')
     
     args = parser.parse_args()
     
-    # 載入書籤
+    # Load bookmarks
     with open(args.input, 'r', encoding='utf-8') as f:
         data = json.load(f)
     
     bookmarks = data.get('bookmarks', [])
+    print(f'載入 {len(bookmarks)} 個書籤...')
     
-    # 分類
-    organized = organize_bookmarks(bookmarks)
+    # Classify
+    classifier = BookmarkClassifier()
+    organized = classifier.classify_batch(bookmarks)
     
-    # 生成報告
-    if args.report:
-        print(generate_report(organized))
+    # Save
+    output_data = {
+        'total': len(bookmarks),
+        'categories': len(organized),
+        'bookmarks': organized
+    }
     
-    # 輸出 HTML
-    generate_html(organized, args.output_html)
-    print(f"\n✅ HTML 已匯出: {args.output_html}")
+    with open(args.output, 'w', encoding='utf-8') as f:
+        json.dump(output_data, f, ensure_ascii=False, indent=2)
     
-    # 輸出 JSON（可選）
-    if args.output_json:
-        with open(args.output_json, 'w', encoding='utf-8') as f:
-            json.dump({
-                'organized': organized,
-                'stats': {
-                    'total': len(bookmarks),
-                    'categories': len(organized)
-                }
-            }, f, ensure_ascii=False, indent=2)
-        print(f"✅ JSON 已匯出: {args.output_json}")
+    print(f'✅ 已分類並保存到: {args.output}')
+    
+    if args.stats:
+        print('\n📊 分類統計:')
+        stats = classifier.get_category_stats(organized)
+        for category, count in stats[:20]:
+            print(f'  {category}: {count}')
 
 
 if __name__ == '__main__':

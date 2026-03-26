@@ -1,12 +1,24 @@
 ---
 name: bookmark-manager
 description: |
-  Browser bookmark management tool. Parse, search, organize, and export bookmarks from Chrome, Firefox, Safari, and Edge. Use when users want to: (1) read/view browser bookmarks, (2) search bookmarks by keyword, (3) find duplicate bookmarks, (4) export bookmarks to HTML/Markdown/JSON, (5) analyze bookmark statistics, (6) organize bookmarks. Keywords: 書籤, bookmark, 瀏覽器, browser, Chrome, Firefox, Safari, Edge.
+  Browser bookmark management skill for OpenClaw. Parse, search, organize, and export bookmarks from Chrome, Firefox, Safari, and Edge. Features AI-powered intelligent categorization based on domain analysis, content keywords, and user bookmark patterns. Use when users want to: (1) read/view browser bookmarks, (2) search bookmarks by keyword/URL/folder, (3) find duplicate bookmarks, (4) export bookmarks to HTML/Markdown/JSON, (5) analyze bookmark statistics, (6) intelligently organize and categorize bookmarks using AI. Keywords: 書籤, bookmark, 瀏覽器, browser, Chrome, Firefox, Safari, Edge, 整理, organize, 分類, categorize.
 ---
 
 # Bookmark Manager
 
-Manage browser bookmarks across Chrome, Firefox, Safari, and Edge.
+Intelligent browser bookmark management tool for OpenClaw. Parse, search, organize, and export bookmarks from Chrome, Firefox, Safari, and Edge with AI-powered categorization.
+
+## Features
+
+- **Multi-browser support**: Chrome, Firefox, Safari, Edge
+- **Smart search**: Search by title, URL, or folder
+- **Duplicate detection**: Find duplicate bookmarks by URL
+- **AI-powered categorization**: Intelligently categorize bookmarks based on:
+  - Domain analysis (GitHub, Stack Overflow, Medium, etc.)
+  - Content keywords (React, Swift, Python, etc.)
+  - User bookmark patterns and folder structure
+- **Export formats**: HTML (Netscape format), Markdown, JSON
+- **Statistics**: Analyze bookmark usage patterns and top domains
 
 ## Quick Start
 
@@ -19,8 +31,8 @@ python3 scripts/bookmark_parser.py list
 ### Search bookmarks
 
 ```bash
-python3 scripts/bookmark_parser.py search "關鍵字"
-python3 scripts/bookmark_parser.py search "github" --field url
+python3 scripts/bookmark_parser.py search "keyword"
+python3 scripts/bookmark_parser.py search "github.com" --field url
 ```
 
 ### Find duplicates
@@ -35,46 +47,28 @@ python3 scripts/bookmark_parser.py duplicates
 python3 scripts/bookmark_parser.py stats
 ```
 
+### AI-powered organization
+
+```bash
+# Classify bookmarks using AI
+python3 scripts/bookmark_classifier.py bookmarks.json --stats
+
+# Export organized bookmarks
+python3 scripts/bookmark_export.py classified.json output.html --format html
+```
+
 ### Export bookmarks
 
 ```bash
-# First export to JSON
+# Export to JSON
 python3 scripts/bookmark_parser.py list --format json > bookmarks.json
 
-# Then convert to other formats
-python3 scripts/bookmark_export.py bookmarks.json bookmarks.html --format html
-python3 scripts/bookmark_export.py bookmarks.json bookmarks.md --format markdown
+# Convert to HTML
+python3 scripts/bookmark_export.py bookmarks.json output.html --format html
+
+# Convert to Markdown
+python3 scripts/bookmark_export.py bookmarks.json output.md --format markdown
 ```
-
-## AI Smart Classification
-
-Automatically categorize bookmarks using AI pattern matching:
-
-```bash
-# Classify and generate organized HTML
-python3 scripts/bookmark_classifier.py bookmarks.json --output-html bookmarks_organized.html --report
-
-# With JSON output for further processing
-python3 scripts/bookmark_classifier.py bookmarks.json --output-html out.html --output-json out.json
-```
-
-### AI Categories
-
-- **Frontend/**: React, Vue, Angular, General
-- **Backend/**: Node.js, Python, Java, Go, Database, API
-- **Mobile/**: iOS-Swift, Android, React Native, Flutter
-- **DevOps/**: Docker, CI-CD, Cloud, Git
-- **AI-ML/**: General, Models
-- **Library/**: Systems (for library management systems)
-- **Community/**: Forums, Chinese-Tech, Medium, StackOverflow
-- **Tools/**: IDE, Design, Google, Utilities
-- **Learning/**: Tutorials, Documentation
-- **Architecture/**: Patterns (MVVM, MVC, etc.)
-- **Testing/**: Unit tests, E2E, automation
-- **Security/**: Auth, encryption, vulnerabilities
-- **Development/**: GitHub, Localhost
-- **Network/**: Internal-IP
-- **Browser/**: Extensions
 
 ## Supported Browsers
 
@@ -87,9 +81,9 @@ python3 scripts/bookmark_classifier.py bookmarks.json --output-html out.html --o
 
 ## Commands Reference
 
-### list
+### `list`
 
-List all bookmarks.
+List all bookmarks with optional filtering.
 
 ```bash
 python3 scripts/bookmark_parser.py list [options]
@@ -100,7 +94,7 @@ Options:
   --folder FOLDER                         Filter by folder name
 ```
 
-### search
+### `search`
 
 Search bookmarks by keyword.
 
@@ -112,27 +106,63 @@ Options:
   --field {all,title,url,folder}          Search field (default: all)
 ```
 
-### duplicates
+### `duplicates`
 
 Find duplicate bookmarks (same URL).
 
 ```bash
 python3 scripts/bookmark_parser.py duplicates [options]
-
-Options:
-  --browser {chrome,firefox,safari,edge}  Specify browser
 ```
 
-### stats
+### `stats`
 
-Show bookmark statistics (total count, top folders, top domains).
+Show bookmark statistics.
 
 ```bash
 python3 scripts/bookmark_parser.py stats [options]
+```
+
+### `classify` (AI-powered)
+
+Intelligently categorize bookmarks using AI pattern matching.
+
+```bash
+python3 scripts/bookmark_classifier.py INPUT.json [options]
 
 Options:
-  --browser {chrome,firefox,safari,edge}  Specify browser
+  --output FILE    Output JSON file (default: classified.json)
+  --stats          Show category statistics
 ```
+
+## AI Categorization System
+
+The classifier uses multi-level pattern matching:
+
+### Level 1: Domain Analysis
+Recognizes popular platforms and maps to categories:
+- **Development**: GitHub, GitLab, Stack Overflow, MDN
+- **Learning**: Medium, Dev.to, iT邦幫忙, YouTube
+- **Official Docs**: React, Vue, Swift, Node.js, Python
+- **Cloud**: AWS, GCP, Azure, Vercel
+- **Databases**: MongoDB, PostgreSQL, Firebase
+
+### Level 2: Content Keywords
+Detects technology keywords in title and URL:
+- **Frontend**: React, Vue, Angular, Next.js, Svelte
+- **Mobile**: Swift, iOS, Kotlin, Android, React Native
+- **Backend**: Node.js, Python, Java, C#, Go, Rust
+- **Database**: SQL, MongoDB, PostgreSQL, Redis
+- **DevOps**: Docker, Kubernetes, CI/CD, GitHub Actions
+- **Security**: Encryption, OAuth, JWT, SSL/TLS
+
+### Level 3: Folder Structure
+Preserves meaningful user-created folder names:
+- React, Vue, Angular, Swift, Kotlin
+- JavaScript, TypeScript, Python, Java, C#
+- API, Database, DevOps, Security, Testing
+
+### Level 4: Fallback
+Unclassified bookmarks go to "未分類" for manual review.
 
 ## Output Format
 
@@ -148,6 +178,23 @@ Each bookmark object contains:
 }
 ```
 
+## Category Examples
+
+Based on real user bookmark analysis:
+
+| Category | Count | Examples |
+|----------|-------|----------|
+| 開發資源/GitHub | 52 | GitHub repositories, projects |
+| React | 33 | React tutorials, libraries |
+| Swift | 30 | Swift documentation, tutorials |
+| 技術文章/Medium | 28 | Technical articles on Medium |
+| 學習資源/iT邦幫忙 | 23 | iT邦幫忙 tutorials |
+| 中文技術/CSDN | 22 | CSDN technical articles |
+| 開發資源/Stack Overflow | 22 | Stack Overflow Q&A |
+| JavaScript | 16 | JavaScript resources |
+| 影音學習/YouTube | 16 | YouTube tutorials |
+| Apple開發/官方文件 | 10 | Apple official documentation |
+
 ## Common Use Cases
 
 ### Find all GitHub bookmarks
@@ -159,7 +206,7 @@ python3 scripts/bookmark_parser.py search github --field url
 ### List bookmarks in a specific folder
 
 ```bash
-python3 scripts/bookmark_parser.py list --folder "工作" --format text
+python3 scripts/bookmark_parser.py list --folder "React" --format text
 ```
 
 ### Check for duplicate URLs
@@ -175,8 +222,39 @@ python3 scripts/bookmark_parser.py list --format json > /tmp/bm.json
 python3 scripts/bookmark_export.py /tmp/bm.json bookmarks.md --format markdown
 ```
 
+### Organize and categorize all bookmarks
+
+```bash
+python3 scripts/bookmark_parser.py list --format json > bookmarks.json
+python3 scripts/bookmark_classifier.py bookmarks.json --stats
+python3 scripts/bookmark_export.py classified.json organized.html --format html
+```
+
 ## Notes
 
 - Safari requires Full Disk Access permission on macOS
 - Firefox uses SQLite database, may be locked when browser is running
 - Auto-detection prefers Chrome > Safari > Edge > Firefox
+- AI classification is based on pattern matching, not ML models
+- Unclassified bookmarks can be manually reviewed and recategorized
+
+## Advanced: Customizing Categories
+
+Edit `scripts/bookmark_classifier.py` to customize:
+
+1. **Domain mappings**: Add new domain → category mappings
+2. **Keyword patterns**: Add technology keywords and categories
+3. **Folder mappings**: Map user folder names to categories
+
+Example:
+
+```python
+self.domain_categories = {
+    'mycompany.com': '公司資源/內部',
+    'custom-docs.io': '自訂文件',
+}
+
+self.keyword_patterns = {
+    'MyFramework': ['myframework', 'mf-'],
+}
+```
