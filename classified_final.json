@@ -1,0 +1,4368 @@
+{
+  "total": 612,
+  "categories": 39,
+  "bookmarks": {
+    "AI工具/ChatGPT": [
+      {
+        "title": "ChatGPT",
+        "url": "https://chat.openai.com/",
+        "folder": "書籤列",
+        "date_added": "13356603615126620",
+        "source": "chrome"
+      }
+    ],
+    "API/資源": [
+      {
+        "title": "192.168.6.128/aspnet/api/nmq",
+        "url": "http://192.168.6.128/aspnet/api/nmq",
+        "folder": "書籤列/shms7_Api",
+        "date_added": "13290675745000000",
+        "source": "chrome"
+      },
+      {
+        "title": "1Campus 系統整合 API",
+        "url": "https://devapi.1campus.net/doc/jasmine",
+        "folder": "書籤列/1camousAPI",
+        "date_added": "13325932958586452",
+        "source": "chrome"
+      },
+      {
+        "title": "210.70.26.39/aspnet/api/nmq/",
+        "url": "http://210.70.26.39/aspnet/api/nmq/",
+        "folder": "書籤列/JS",
+        "date_added": "13232784635000000",
+        "source": "chrome"
+      },
+      {
+        "title": "220.132.42.186:180/aspnet/api/nmq/",
+        "url": "http://220.132.42.186:180/aspnet/api/nmq/",
+        "folder": "書籤列/Vue",
+        "date_added": "13244022804000000",
+        "source": "chrome"
+      },
+      {
+        "title": "83efb34bb64fbd5a027c5ce5a1924fbe.png (1065×308)",
+        "url": "https://img2.tapimg.com/bbcode/images/83efb34bb64fbd5a027c5ce5a1924fbe.png",
+        "folder": "書籤列/C#/MVC CORE/身分驗證",
+        "date_added": "13272435562000000",
+        "source": "chrome"
+      },
+      {
+        "title": "ASP. NET Web Api 2 透過 JWT 進行資料驗證 – APPX Tech 時賦科技 Blog",
+        "url": "http://blog.appx.tw/2018/04/18/asp-net-web-api-2-%E9%80%8F%E9%81%8E-jwt-%E9%80%B2%E8%A1%8C%E8%B3%87%E6%96%99%E9%A9%97%E8%AD%89/",
+        "folder": "書籤列/JS",
+        "date_added": "13233981447000000",
+        "source": "chrome"
+      },
+      {
+        "title": "localhost/aspnet/api/nmq/",
+        "url": "http://localhost/aspnet/api/nmq/",
+        "folder": "書籤列/shms7_Api",
+        "date_added": "13287465184000000",
+        "source": "chrome"
+      },
+      {
+        "title": "localhost:61656/api/topictest?values=1",
+        "url": "http://localhost:61656/api/topictest?values=1",
+        "folder": "書籤列/shms7_Api",
+        "date_added": "13291456668000000",
+        "source": "chrome"
+      },
+      {
+        "title": "三民書局API",
+        "url": "https://www.sanmin.com.tw/API/Productdata/mi/?format=html&EAN=9789575279093",
+        "folder": "書籤列/bhc",
+        "date_added": "13259729155000000",
+        "source": "chrome"
+      },
+      {
+        "title": "棕色代碼-RGB棕色",
+        "url": "https://www.rapidtables.org/zh-TW/web/color/brown-color.html",
+        "folder": "書籤列/RN",
+        "date_added": "13322105462122199",
+        "source": "chrome"
+      }
+    ],
+    "Angular/資源": [
+      {
+        "title": "Angular Example - Getting Started - StackBlitz",
+        "url": "https://stackblitz.com/angular/brlrgrqvvmxy?file=src%2Fapp%2Fapp.component.ts",
+        "folder": "書籤列/JS",
+        "date_added": "13230780414000000",
+        "source": "chrome"
+      }
+    ],
+    "Apple開發/Swift": [
+      {
+        "title": "220.130.59.159/webopac/opacreader.asmx/loginTable?value01=bhc&value02=bhc",
+        "url": "http://220.130.59.159/webopac/opacreader.asmx/loginTable?value01=bhc&value02=bhc",
+        "folder": "書籤列/Swift",
+        "date_added": "13125640848000000",
+        "source": "chrome"
+      },
+      {
+        "title": "AppCan中国Hybrid混合应用开发、移动平台、移动云平台的领导者",
+        "url": "http://www.appcan.cn/",
+        "folder": "書籤列/Swift",
+        "date_added": "13161678719000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Combine + MVVM 如何构建易测试的 ViewModel？ - Ficow Shen's Blog",
+        "url": "https://blog.ficowshen.com/page/post/31",
+        "folder": "書籤列/Swift",
+        "date_added": "13337340060878203",
+        "source": "chrome"
+      },
+      {
+        "title": "簡易實作MVVM範例",
+        "url": "https://www.tpisoftware.com/tpu/articleDetails/1440",
+        "folder": "書籤列/Swift",
+        "date_added": "13337243315773393",
+        "source": "chrome"
+      }
+    ],
+    "Apple開發/官方文件": [
+      {
+        "title": "App Search API Validation Tool",
+        "url": "https://search.developer.apple.com/appsearch-validation-tool/",
+        "folder": "書籤列/React",
+        "date_added": "13294217664000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Apple Developer",
+        "url": "https://developer.apple.com/",
+        "folder": "書籤列/Swift",
+        "date_added": "13201347393000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Core Data | Apple Developer Documentation",
+        "url": "https://developer.apple.com/documentation/coredata",
+        "folder": "書籤列/Swift",
+        "date_added": "13337249214767241",
+        "source": "chrome"
+      },
+      {
+        "title": "HTTP Post Requests in Swift for be… | Apple Developer Forums",
+        "url": "https://developer.apple.com/forums/thread/666662",
+        "folder": "書籤列/Swift",
+        "date_added": "13339065469378622",
+        "source": "chrome"
+      },
+      {
+        "title": "SF Symbols - Apple Developer",
+        "url": "https://developer.apple.com/sf-symbols/",
+        "folder": "書籤列/Swift",
+        "date_added": "13339223328938386",
+        "source": "chrome"
+      },
+      {
+        "title": "Stack protections in bitcode and a… | Apple Developer Forums",
+        "url": "https://developer.apple.com/forums/thread/106300",
+        "folder": "書籤列/MB3 資安",
+        "date_added": "13303452655506556",
+        "source": "chrome"
+      },
+      {
+        "title": "SwiftUI - 简体中文文档 - Apple Developer",
+        "url": "https://developer.apple.com/cn/documentation/swiftui/",
+        "folder": "書籤列/Swift",
+        "date_added": "13336812728086470",
+        "source": "chrome"
+      },
+      {
+        "title": "SwiftUI and dynamic NSSortDescript… | Apple Developer Forums",
+        "url": "https://developer.apple.com/forums/thread/659042",
+        "folder": "書籤列/Swift",
+        "date_added": "13339758811528719",
+        "source": "chrome"
+      },
+      {
+        "title": "出口合規資訊概覽 - 管理 App 資訊 - App Store Connect - 說明 - Apple Developer",
+        "url": "https://developer.apple.com/tw/help/app-store-connect/manage-app-information/overview-of-export-compliance",
+        "folder": "書籤列/Swift",
+        "date_added": "13337164543845053",
+        "source": "chrome"
+      },
+      {
+        "title": "發布error Force my app to display only portr… | Apple Developer Forums",
+        "url": "https://forums.developer.apple.com/forums/thread/728944",
+        "folder": "書籤列/Swift",
+        "date_added": "13350724588492050",
+        "source": "chrome"
+      }
+    ],
+    "C#": [
+      {
+        "title": "Flip~ JB ! : [RDLC] 使用子報表(SubReport)從既有RDLC建立多筆報表",
+        "url": "https://karatejb.blogspot.com/2016/08/rdlc-subreportrdlc.html",
+        "folder": "書籤列/C#/MVC CORE",
+        "date_added": "13276857132000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Microsoft Word - PUR¤W½Ò±Ð§÷5X-¥ÉÄ_.doc",
+        "url": "http://120.105.184.250/hsiaoling/PMIS--9401/(%E6%8E%A1%E8%B3%BC%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1)PUR%E4%B8%8A%E8%AA%B2%E6%95%99%E6%9D%905X.pdf",
+        "folder": "書籤列/C#/MVC CORE",
+        "date_added": "13276848536000000",
+        "source": "chrome"
+      },
+      {
+        "title": "輕鬆建立具有 ChatGPT AI能力的LINE Bot",
+        "url": "https://studyhost.blogspot.com/2023/10/chatgpt-ailine-bot.html",
+        "folder": "書籤列/C#/LineBot",
+        "date_added": "13362219687461987",
+        "source": "chrome"
+      }
+    ],
+    "C#/資源": [
+      {
+        "title": "[ASP.NET Core 6] 通過 Swashbuckle.AspNetCore 編寫 Web API 的 Swagger 文件 | 余小章 @ 大內殿堂 - 點部落",
+        "url": "https://www.dotblogs.com.tw/yc421206/2022/03/12/via_swashbuckle_write_swagger_doc_in_asp_net_core_web_api",
+        "folder": "書籤列/api core",
+        "date_added": "13310114925986095",
+        "source": "chrome"
+      },
+      {
+        "title": "[ASP.NET Web API] 實作 System.IdentityModel.Tokens.Jwt 進行身分驗證 | 余小章 @ 大內殿堂 - 點部落",
+        "url": "https://dotblogs.com.tw/yc421206/2019/01/08/authentication_via_ms_system_identitymodel_tokens_jwt",
+        "folder": "書籤列/JS",
+        "date_added": "13234327985000000",
+        "source": "chrome"
+      },
+      {
+        "title": "ASP.NET Web API & JWT 使用者身分驗證練習 | C# .NET Blazor Research",
+        "url": "https://csharpkh.blogspot.com/2018/09/ASP-NET-Core-Web-API-JWT-Token.html",
+        "folder": "書籤列/JS",
+        "date_added": "13233829187000000",
+        "source": "chrome"
+      },
+      {
+        "title": "ASP.NET WebAPI 2 - 使用 POST Body 傳送多參數(NSwag 版)-黑暗執行緒",
+        "url": "https://blog.darkthread.net/blog/nswag-post-body-webapi2/",
+        "folder": "書籤列/api core",
+        "date_added": "13227938579000000",
+        "source": "chrome"
+      },
+      {
+        "title": "asp.net-core - Asp.net核心身份使用AspNetUserClaims还是AspNetRoleClaims？ - IT工具网",
+        "url": "https://www.coder.work/article/6198460",
+        "folder": "書籤列/C#/MVC CORE/身分驗證",
+        "date_added": "13271136557000000",
+        "source": "chrome"
+      },
+      {
+        "title": "azure職業安全系統登入窗口",
+        "url": "http://shms7web.azurewebsites.net/login.html",
+        "folder": "書籤列/JS",
+        "date_added": "13235646536000000",
+        "source": "chrome"
+      },
+      {
+        "title": "C# 實現Excel匯出圖片 - 程式人生",
+        "url": "https://www.796t.com/content/1549747832.html",
+        "folder": "書籤列/shms7_Api",
+        "date_added": "13307534734005794",
+        "source": "chrome"
+      },
+      {
+        "title": "DataTables example - Checkbox selection",
+        "url": "https://datatables.net/extensions/select/examples/initialisation/checkbox.html",
+        "folder": "書籤列/JS",
+        "date_added": "13232691225000000",
+        "source": "chrome"
+      },
+      {
+        "title": "DataTables example - Get selected items",
+        "url": "https://datatables.net/extensions/select/examples/api/get.html",
+        "folder": "書籤列/JS",
+        "date_added": "13232691439000000",
+        "source": "chrome"
+      },
+      {
+        "title": "responsive.details.display",
+        "url": "https://datatables.net/reference/option/responsive.details.display",
+        "folder": "書籤列/shms7_Api",
+        "date_added": "13289023379000000",
+        "source": "chrome"
+      },
+      {
+        "title": "在 ASP.NET Core WebAPI 中使用 JWT 驗證",
+        "url": "https://blog.poychang.net/authenticating-jwt-tokens-in-asp-net-core-webapi/",
+        "folder": "書籤列/JS",
+        "date_added": "13234328245000000",
+        "source": "chrome"
+      },
+      {
+        "title": "如何在 ASP.NET Core 2.2 使用 Token-based 身分驗證與授權 (JWT) | The Will Will Web",
+        "url": "https://blog.miniasp.com/post/2019/10/13/How-to-use-JWT-token-based-auth-in-aspnet-core-22",
+        "folder": "書籤列/JS",
+        "date_added": "13233742396000000",
+        "source": "chrome"
+      },
+      {
+        "title": "如何在 ASP.NET Core 3 使用 Token-based 身分驗證與授權 (JWT) | The Will Will Web",
+        "url": "https://blog.miniasp.com/post/2019/12/16/How-to-use-JWT-token-based-auth-in-aspnet-core-31",
+        "folder": "書籤列/JS",
+        "date_added": "13234001535000000",
+        "source": "chrome"
+      },
+      {
+        "title": "如何在 ASP.NET Core 6 使用 Token-based 身份認證與授權 (JWT) | The Will Will Web",
+        "url": "https://blog.miniasp.com/post/2022/02/13/How-to-use-JWT-token-based-auth-in-aspnet-core-60",
+        "folder": "書籤列/api core",
+        "date_added": "13310101828412458",
+        "source": "chrome"
+      },
+      {
+        "title": "按角色进行授权 · 简明 ASP.NET Core 手册",
+        "url": "https://windsting.github.io/little-aspnetcore-book/book/chapters/security-and-identity/authorization-with-roles.html",
+        "folder": "書籤列/C#/MVC CORE/身分驗證",
+        "date_added": "13271132979000000",
+        "source": "chrome"
+      },
+      {
+        "title": "黑貓抽卡模擬器, C# - rextester",
+        "url": "https://rextester.com/XVQH27395",
+        "folder": "書籤列/nextJs",
+        "date_added": "13311830491465078",
+        "source": "chrome"
+      }
+    ],
+    "Go/資源": [
+      {
+        "title": "2014.01.16_振聲高中要補的登錄號",
+        "url": "https://docs.google.com/a/mi.com.tw/spreadsheet/ccc?key=0ArntWd0j-vSSdEhFZEhfTzNUdGFoMndKd09xTVVNWmc&usp=sharing#gid=0",
+        "folder": "書籤列/已匯入/Z-振聲高中",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Google",
+        "url": "https://www.google.com.tw/",
+        "folder": "書籤列",
+        "date_added": "13359431697392470",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 臺中榮民總醫院圖書館",
+        "url": "http://172.22.250.132.ezproxy.vghtc.gov.tw:2048/mitopac/",
+        "folder": "書籤列/已匯入/T-台中榮總",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7_(有)維護客戶名單_112.01.xlsx - Google 試算表",
+        "url": "https://docs.google.com/spreadsheets/d/1VnZQ7-X4DYnrnW6TFz2d-_DwiqAzTpOJ/edit#gid=400840985",
+        "folder": "書籤列",
+        "date_added": "13318305328159155",
+        "source": "chrome"
+      },
+      {
+        "title": "M7系統問題紀錄表 - Google 試算表",
+        "url": "https://docs.google.com/spreadsheets/d/1sFwE4lTcKcbLWO_-6SRIlV1ADeR-t-EQXmkVhI6XPXw/edit?ts=561cbca9#gid=0",
+        "folder": "書籤列/已匯入/H-弘光科大",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7自動化系統問題 - 建議表單",
+        "url": "https://docs.google.com/a/mi.com.tw/spreadsheet/ccc?key=0AjDpn5YTi6sTdDVkTUZfWDZJWVJNSEpqNk1ZT25JUEE#gid=0",
+        "folder": "書籤列/已匯入/K-崑山科技大學",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "YUH_M7問題反應清單 - Google 試算表",
+        "url": "https://docs.google.com/spreadsheets/d/1buEFKPytONdFxAE-ZbmtAtKyR1toYFDn2uNNFNy0Wc0/edit?pref=2&pli=1#gid=0",
+        "folder": "書籤列/已匯入/Y-育英醫專",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "台中榮總圖書館-電子資源使用者登入(Login)",
+        "url": "http://ezproxy.vghtc.gov.tw:2048/login?url=http://172.22.250.132/mitopac/",
+        "folder": "書籤列/已匯入/T-台中榮總",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "圖書館M7問題處理列表 - Google 試算表",
+        "url": "https://docs.google.com/a/mi.com.tw/spreadsheets/d/1Dd2K-vVUtRSKkMP1f_ARz-IS8NDNRayVVhYTDTBM20g/edit#gid=2111591349",
+        "folder": "書籤列/已匯入/S-樹德科大",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "地圖",
+        "url": "https://maps.google.com/",
+        "folder": "書籤列",
+        "date_added": "13300449776056397",
+        "source": "chrome"
+      },
+      {
+        "title": "新聞內容",
+        "url": "https://news.google.com/",
+        "folder": "書籤列",
+        "date_added": "13300449780061559",
+        "source": "chrome"
+      },
+      {
+        "title": "檔案管理局 - M7",
+        "url": "https://library.archives.gov.tw/mitopac/",
+        "folder": "書籤列/已匯入/D-檔案管理局 - 210.69.72.54",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "檔案管理局 - Opac館藏目錄查詢系統",
+        "url": "https://library.archives.gov.tw/webopac/",
+        "folder": "書籤列/已匯入/D-檔案管理局 - 210.69.72.54",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "翻譯",
+        "url": "https://translate.google.com/",
+        "folder": "書籤列",
+        "date_added": "13300449780537075",
+        "source": "chrome"
+      },
+      {
+        "title": "臺中榮民總醫院圖書館 館藏目錄查詢系統",
+        "url": "http://lib.vghtc.gov.tw.ezproxy.vghtc.gov.tw:2048/webopac/",
+        "folder": "書籤列/已匯入/T-台中榮總",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "臺北市立聯合醫院圖書館",
+        "url": "http://library.tpech.gov.tw:6001/webopac",
+        "folder": "書籤列/已匯入/T-臺北聯合醫院",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "臺北市立聯合醫院圖書館 - ngnix",
+        "url": "http://library.tpech.gov.tw:8208/mitopac/",
+        "folder": "書籤列/已匯入/T-臺北聯合醫院",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "馬偕醫院M7問題提問單 - Google 試算表",
+        "url": "https://docs.google.com/a/mi.com.tw/spreadsheets/d/1_fzCBxoTNe8XHVfGcNIQGBfIGiAP7w3zOKccvwPQIzk/edit?pli=1#gid=0",
+        "folder": "書籤列/已匯入/M-馬偕醫院",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      }
+    ],
+    "JavaScript": [
+      {
+        "title": "4399铁骑三国官方群组_4399铁骑三国官方论坛",
+        "url": "http://my.4399.com/forums/mtag-83860",
+        "folder": "書籤列/JS",
+        "date_added": "13229061662000000",
+        "source": "chrome"
+      },
+      {
+        "title": "[jQ]控制複選框的全選、全取消及反向選取 | 男丁格爾's 脫殼玩",
+        "url": "https://abgne.tw/jquery/apply-jquery/control-checkbox-select-mode.html",
+        "folder": "書籤列/JS",
+        "date_added": "13230810529000000",
+        "source": "chrome"
+      },
+      {
+        "title": "DataList & Jquery 分頁功能與全選 checkbox , PART 2 | Life In USA",
+        "url": "https://lifeisshortplaymo.blogspot.com/2011/07/datalist-jquery-checkbox-part-2.html",
+        "folder": "書籤列/JS",
+        "date_added": "13230810322000000",
+        "source": "chrome"
+      },
+      {
+        "title": "DataTables 多条件查询、多列搜索 博客 DataTable中文网",
+        "url": "http://datatables.club/blog/2016/06/10/multiple-columns-search.html",
+        "folder": "書籤列/JS",
+        "date_added": "13230970543000000",
+        "source": "chrome"
+      },
+      {
+        "title": "HTML 表格 (table) 結構化、合併和群組教學範例 | MIS 腳印",
+        "url": "https://www.footmark.info/web-design/html/html-table-structured-merge-group/",
+        "folder": "書籤列/JS",
+        "date_added": "13229487554000000",
+        "source": "chrome"
+      },
+      {
+        "title": "jQuery DataTables: How to add a checkbox column | Gyrocode.com",
+        "url": "https://www.gyrocode.com/articles/jquery-datatables-how-to-add-a-checkbox-column/#example-code-html",
+        "folder": "書籤列/JS",
+        "date_added": "13230810162000000",
+        "source": "chrome"
+      },
+      {
+        "title": "jQuery | 男丁格爾's 脫殼玩 | 頁 55",
+        "url": "https://abgne.tw/jquery/jquery-tips/jquery-/page/55",
+        "folder": "書籤列/JS",
+        "date_added": "13230693298000000",
+        "source": "chrome"
+      },
+      {
+        "title": "jQuery對checkbox的各種操作 - IT閱讀",
+        "url": "https://www.itread01.com/content/1546427283.html",
+        "folder": "書籤列/JS",
+        "date_added": "13230887975000000",
+        "source": "chrome"
+      },
+      {
+        "title": "利用jquery实现打钩打叉图标特效演示",
+        "url": "https://www.51qianduan.com/article/view/8570.html",
+        "folder": "書籤列/JS",
+        "date_added": "13226125210000000",
+        "source": "chrome"
+      },
+      {
+        "title": "台灣 • 台北 的時間",
+        "url": "https://tw.piliapp.com/time-now/tw/taipei/",
+        "folder": "書籤列/JS",
+        "date_added": "13230799023000000",
+        "source": "chrome"
+      },
+      {
+        "title": "最新命令大全",
+        "url": "http://tw.vrbrothers.com/qmacro/usermanual_local/commands/commands.html#For",
+        "folder": "書籤列/JS",
+        "date_added": "13236935143000000",
+        "source": "chrome"
+      },
+      {
+        "title": "本地端_職業安全系統登入窗口",
+        "url": "http://localhost/shms7/login.html",
+        "folder": "書籤列/JS",
+        "date_added": "13233138551000000",
+        "source": "chrome"
+      },
+      {
+        "title": "色碼表",
+        "url": "https://www.ifreesite.com/color/",
+        "folder": "書籤列/JS",
+        "date_added": "13229420602000000",
+        "source": "chrome"
+      },
+      {
+        "title": "阿凡达 业务 漫画人物 - 免费矢量图形Pixabay",
+        "url": "https://pixabay.com/zh/vectors/avatar-business-comic-characters-1300331/",
+        "folder": "書籤列/JS",
+        "date_added": "13232185887000000",
+        "source": "chrome"
+      },
+      {
+        "title": "風險評估列表",
+        "url": "http://210.70.26.39/aspnet_web/shms7/riskList.html",
+        "folder": "書籤列/JS",
+        "date_added": "13229054198000000",
+        "source": "chrome"
+      },
+      {
+        "title": "首页 - 光年(Light Year Admin)后台管理系统模板",
+        "url": "http://210.70.26.39/aspnet_web/page/ui/index.html",
+        "folder": "書籤列/JS",
+        "date_added": "13229407638000000",
+        "source": "chrome"
+      }
+    ],
+    "JavaScript/資源": [
+      {
+        "title": "Convert JSON to C# Classes Online - Json2CSharp Toolkit",
+        "url": "https://json2csharp.com/",
+        "folder": "書籤列/Swift",
+        "date_added": "13337915645626689",
+        "source": "chrome"
+      },
+      {
+        "title": "form-create-designer可视化表单设计器组件 - 素材火",
+        "url": "https://www.sucaihuo.com/js/5267.html",
+        "folder": "書籤列/JS/表單產生",
+        "date_added": "13270697428000000",
+        "source": "chrome"
+      },
+      {
+        "title": "JavaScript中json操作_专题_脚本之家",
+        "url": "https://www.jb51.net/Special/313.htm",
+        "folder": "書籤列/React",
+        "date_added": "13282898357000000",
+        "source": "chrome"
+      },
+      {
+        "title": "jQuery单图上传图片拖拽上传预览功能代码 - 素材火",
+        "url": "https://www.sucaihuo.com/js/4027.html",
+        "folder": "書籤列/JS/圖片上傳",
+        "date_added": "13270697151000000",
+        "source": "chrome"
+      },
+      {
+        "title": "jQuery移动端触屏滑动时间日期选择插件 - 素材火",
+        "url": "https://www.sucaihuo.com/js/5105.html",
+        "folder": "書籤列/JS",
+        "date_added": "13230094074000000",
+        "source": "chrome"
+      },
+      {
+        "title": "js 分頁全選或反選標識實現程式碼 | 程式前沿",
+        "url": "https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/295013/",
+        "folder": "書籤列/JS",
+        "date_added": "13230809917000000",
+        "source": "chrome"
+      },
+      {
+        "title": "JSON 線上編輯器 JSON Online Editor",
+        "url": "https://www.fooish.com/json/online-editor.html",
+        "folder": "書籤列/React",
+        "date_added": "13289536793000000",
+        "source": "chrome"
+      },
+      {
+        "title": "JS實現點選網頁判斷是否安裝app並開啟否則跳轉app store | 程式前沿",
+        "url": "https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/252881/",
+        "folder": "書籤列/React",
+        "date_added": "13294209649000000",
+        "source": "chrome"
+      },
+      {
+        "title": "JWT JSON Web Token 使用 ASP.NET Core 2.0 Web API 的逐步練習教學與各種情境測試 | C# .NET Blazor Research",
+        "url": "https://csharpkh.blogspot.com/2018/04/jwt-json-web-token-aspnet-core.html",
+        "folder": "書籤列/JS",
+        "date_added": "13234329106000000",
+        "source": "chrome"
+      },
+      {
+        "title": "onchange 事件",
+        "url": "https://www.w3school.com.cn/jsref/event_onchange.asp",
+        "folder": "書籤列/JS",
+        "date_added": "13227676947000000",
+        "source": "chrome"
+      },
+      {
+        "title": "role-based-login-strategy | NextAuth.js",
+        "url": "https://next-auth.js.org/tutorials/role-based-login-strategy",
+        "folder": "書籤列/nextJs",
+        "date_added": "13310535306910269",
+        "source": "chrome"
+      },
+      {
+        "title": "各國語言(語系)代碼表(zh-tw, zh-cn,en-us...) json 格式 [繁中/簡中/英文格式]",
+        "url": "https://hoohoo.top/blog/national-language-code-table-zh-tw-zh-cn-en-us-json-format/",
+        "folder": "書籤列/RN",
+        "date_added": "13368789947961141",
+        "source": "chrome"
+      },
+      {
+        "title": "如何在Nest js API 加入ssl憑證啟用https？ | 老實生活",
+        "url": "https://honest-life.com/post/nextjs-use-ssl-certify",
+        "folder": "書籤列/nextJs",
+        "date_added": "13310729382904799",
+        "source": "chrome"
+      },
+      {
+        "title": "舊館藏查詢 - iPac2.0",
+        "url": "http://163.17.79.103:82/ipac20/ipac.jsp?session=1N510181E8G12.198&profile=hitlib--2&menu=search&ts=1151018204500#focus",
+        "folder": "書籤列/已匯入/X-修平科大",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "鐵人賽：JavaScript 建構式 | 卡斯伯 Blog - 前端，沒有極限",
+        "url": "https://wcc723.github.io/javascript/2017/12/18/javascript-constructor/",
+        "folder": "書籤列/JS",
+        "date_added": "13232536570000000",
+        "source": "chrome"
+      }
+    ],
+    "Kotlin/資源": [
+      {
+        "title": "apksigner  |  Android 开发者  |  Android Developers",
+        "url": "https://developer.android.google.cn/studio/command-line/apksigner?hl=zh-cn",
+        "folder": "書籤列/MB3 資安",
+        "date_added": "13302670274733984",
+        "source": "chrome"
+      },
+      {
+        "title": "Learn Android Step-By-Step With Example",
+        "url": "https://www.cheezycode.com/p/android.html",
+        "folder": "書籤列/kotlin",
+        "date_added": "13345866022831127",
+        "source": "chrome"
+      },
+      {
+        "title": "Retrofit · Android third-party 使用心得",
+        "url": "https://bng86.gitbooks.io/android-third-party-/content/retrofit.html",
+        "folder": "書籤列/kotlin",
+        "date_added": "13345281561397415",
+        "source": "chrome"
+      },
+      {
+        "title": "Wen's Note: [Android] 完整加入 Firebase 推播雲端通知訊息實作教學 (FCM)",
+        "url": "https://fightwennote.blogspot.com/2019/03/android-firebase-fcm.html",
+        "folder": "書籤列/React",
+        "date_added": "13296734621000000",
+        "source": "chrome"
+      },
+      {
+        "title": "使用可組合項預覽預覽 UI  |  Jetpack Compose  |  Android Developers",
+        "url": "https://developer.android.com/jetpack/compose/tooling/previews?hl=zh-tw",
+        "folder": "書籤列/kotlin",
+        "date_added": "13347102996529307",
+        "source": "chrome"
+      },
+      {
+        "title": "按鈕  |  Jetpack Compose  |  Android Developers",
+        "url": "https://developer.android.com/jetpack/compose/components/button?hl=zh-tw",
+        "folder": "書籤列/kotlin",
+        "date_added": "13353666317684425",
+        "source": "chrome"
+      },
+      {
+        "title": "清單和格線  |  Jetpack Compose  |  Android Developers",
+        "url": "https://developer.android.com/jetpack/compose/lists?hl=zh-tw",
+        "folder": "書籤列/kotlin",
+        "date_added": "13347077399206502",
+        "source": "chrome"
+      },
+      {
+        "title": "開始使用 Jetpack Compose  |  Android Developers",
+        "url": "https://developer.android.com/jetpack/compose/documentation?hl=zh-tw",
+        "folder": "書籤列/kotlin",
+        "date_added": "13347080502410341",
+        "source": "chrome"
+      }
+    ],
+    "Python/資源": [
+      {
+        "title": "Online Compiler and IDE >> C/C++, Java, PHP, Python, Perl and 70+ other compilers and interpreters - Ideone.com",
+        "url": "https://ideone.com/",
+        "folder": "書籤列",
+        "date_added": "13305776553300470",
+        "source": "chrome"
+      }
+    ],
+    "React": [
+      {
+        "title": "",
+        "url": "http://localhost:19006/",
+        "folder": "書籤列/React",
+        "date_added": "13281519007000000",
+        "source": "chrome"
+      },
+      {
+        "title": "BK35",
+        "url": "http://220.130.59.159/webopac/ucbSearch.asmx/BookInfo02",
+        "folder": "書籤列/React",
+        "date_added": "13281671942000000",
+        "source": "chrome"
+      },
+      {
+        "title": "GKP Web login",
+        "url": "https://tpvpn2.mmh.org.tw/login.php",
+        "folder": "書籤列/React",
+        "date_added": "13289897300000000",
+        "source": "chrome"
+      },
+      {
+        "title": "小圖案Ionicons: The premium icon pack for Ionic Framework",
+        "url": "https://ionic.io/ionicons",
+        "folder": "書籤列/React",
+        "date_added": "13283588609000000",
+        "source": "chrome"
+      },
+      {
+        "title": "文藻外語大學圖書館",
+        "url": "https://lib.wzu.edu.tw/",
+        "folder": "書籤列/React",
+        "date_added": "13284098897000000",
+        "source": "chrome"
+      },
+      {
+        "title": "書籤",
+        "url": "chrome://bookmarks/?id=2",
+        "folder": "書籤列/React",
+        "date_added": "13287114025000000",
+        "source": "chrome"
+      },
+      {
+        "title": "網路狀態 RN 踩坑记 | 码农家园",
+        "url": "https://www.codenong.com/cs106841808/",
+        "folder": "書籤列/React",
+        "date_added": "13281518672000000",
+        "source": "chrome"
+      },
+      {
+        "title": "首页 - 极光",
+        "url": "https://www.jiguang.cn/",
+        "folder": "書籤列/React",
+        "date_added": "13287142654000000",
+        "source": "chrome"
+      }
+    ],
+    "React/Next.js": [
+      {
+        "title": "Https网站中请求Http内容 - 腾讯云开发者社区-腾讯云",
+        "url": "https://cloud.tencent.com/developer/article/1644537",
+        "folder": "書籤列/nextJs",
+        "date_added": "13309346789556421",
+        "source": "chrome"
+      },
+      {
+        "title": "天堂M，抽卡機率程式 - HackMD",
+        "url": "https://hackmd.io/@kAo_xOMRT-K8Yl0Ar50Xpg/BJ5wBVTPM?type=view",
+        "folder": "書籤列/nextJs",
+        "date_added": "13311748171832574",
+        "source": "chrome"
+      }
+    ],
+    "React/React Native": [
+      {
+        "title": "d103. NOIP 2008 1.ISBN号码 - 高中生程式解題系統",
+        "url": "https://zerojudge.tw/ShowProblem?problemid=d103",
+        "folder": "書籤列/RN",
+        "date_added": "13316690837073525",
+        "source": "chrome"
+      },
+      {
+        "title": "ISBN碼檢查",
+        "url": "http://www.shute.kh.edu.tw/~92d314/email/E16.htm",
+        "folder": "書籤列/RN",
+        "date_added": "13316690887206345",
+        "source": "chrome"
+      }
+    ],
+    "React/資源": [
+      {
+        "title": "[React] 透過實例熟悉 Effect Hook 操作技巧 | 搞搞就懂 - 點部落",
+        "url": "https://dotblogs.com.tw/wasichris/2019/12/11/111627",
+        "folder": "書籤列/React",
+        "date_added": "13296119499000000",
+        "source": "chrome"
+      },
+      {
+        "title": "[ReactJS] 使用Webpack, npm建置React開發環境 | JysBlog",
+        "url": "http://www.jysblog.com/coding/web/js-%E4%BD%BF%E7%94%A8webpack-npm%E5%BB%BA%E7%BD%AEreact%E9%96%8B%E7%99%BC%E7%92%B0%E5%A2%83/",
+        "folder": "書籤列/React",
+        "date_added": "13258695315000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Android Gradle 插件需要 Java 11 才能运行。您当前使用的是 Java 1.8。 react native - 无涯教程",
+        "url": "https://www.learnfk.com/en/question/java/71781962.html",
+        "folder": "書籤列/React",
+        "date_added": "13294726145000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Async Storage Example - Snack",
+        "url": "https://snack.expo.dev/@aboutreact/async-storage-example?session_id=snack-session-YtYnjqPAp",
+        "folder": "書籤列/React",
+        "date_added": "13281010021000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Async Storage | Async Storage",
+        "url": "https://react-native-async-storage.github.io/async-storage/",
+        "folder": "書籤列/React",
+        "date_added": "13280978712000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Dynamic Navigation in Next.js – How to Render Nav-Items Dynamically in a Next App",
+        "url": "https://www.freecodecamp.org/news/dynamic-navigation-in-nextjs/",
+        "folder": "書籤列/nextJs",
+        "date_added": "13296815745000000",
+        "source": "chrome"
+      },
+      {
+        "title": "end",
+        "url": "https://reactnative.dev/docs/scrollview",
+        "folder": "書籤列/React",
+        "date_added": "13282102140000000",
+        "source": "chrome"
+      },
+      {
+        "title": "EXPO NFC",
+        "url": "https://www.facebook.com/groups/reactnativetw/permalink/1907003829365171/",
+        "folder": "書籤列/React",
+        "date_added": "13284628336000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Firebase Cloud Messaging (FCM) | Notifee",
+        "url": "https://notifee.app/react-native/docs/integrations/fcm",
+        "folder": "書籤列/React",
+        "date_added": "13290767462000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Focus on the Next TextInput when Next Keyboard Button is Pressed in React Native",
+        "url": "https://www.codedaily.io/tutorials/Focus-on-the-Next-TextInput-when-Next-Keyboard-Button-is-Pressed-in-React-Native",
+        "folder": "書籤列/RN",
+        "date_added": "13321702927974140",
+        "source": "chrome"
+      },
+      {
+        "title": "How to Add to an Array in React State using Hooks | by Dr. Derek Austin 🥳 | JavaScript in Plain English",
+        "url": "https://javascript.plainenglish.io/how-to-add-to-an-array-in-react-state-3d08ddb2e1dc",
+        "folder": "書籤列/React",
+        "date_added": "13264247908000000",
+        "source": "chrome"
+      },
+      {
+        "title": "How to get the enter key in ReactJS ? - GeeksforGeeks",
+        "url": "https://www.geeksforgeeks.org/how-to-get-the-enter-key-in-reactjs/",
+        "folder": "書籤列/nextJs",
+        "date_added": "13297242538000000",
+        "source": "chrome"
+      },
+      {
+        "title": "iOS Messaging Setup | React Native Firebase",
+        "url": "https://rnfirebase.io/messaging/usage/ios-setup",
+        "folder": "書籤列/React",
+        "date_added": "13290768383000000",
+        "source": "chrome"
+      },
+      {
+        "title": "messaging | React Native Firebase",
+        "url": "https://rnfirebase.io/reference/messaging",
+        "folder": "書籤列/React",
+        "date_added": "13294746906000000",
+        "source": "chrome"
+      },
+      {
+        "title": "next.config.js: Base Path | Next.js | Next.js中文网",
+        "url": "https://www.nextjs.cn/docs/api-reference/next.config.js/basepath",
+        "folder": "書籤列/nextJs",
+        "date_added": "13308743686630292",
+        "source": "chrome"
+      },
+      {
+        "title": "React (1702H) 點擊複製、滾動條、圖形驗證碼、ridis、密碼rsa加密、token、發郵件、文件上傳、sql語句 - 台部落",
+        "url": "https://www.twblogs.net/a/5d3f99f8bd9eee51fbf93809",
+        "folder": "書籤列/React",
+        "date_added": "13259754473000000",
+        "source": "chrome"
+      },
+      {
+        "title": "React Hooks 入门教程 - 阮一峰的网络日志",
+        "url": "https://www.ruanyifeng.com/blog/2019/09/react-hooks.html",
+        "folder": "書籤列/React",
+        "date_added": "13259404426000000",
+        "source": "chrome"
+      },
+      {
+        "title": "React Native Firebase | React Native Firebase",
+        "url": "https://rnfirebase.io/",
+        "folder": "書籤列/React",
+        "date_added": "13290833104000000",
+        "source": "chrome"
+      },
+      {
+        "title": "React Native NFC module for Android & iOS",
+        "url": "https://morioh.com/p/d84a03c90298",
+        "folder": "書籤列/React",
+        "date_added": "13284783886000000",
+        "source": "chrome"
+      },
+      {
+        "title": "React Native release包无法正常发起http请求的问题_z372574152的博客-程序员宅基地 - 程序员宅基地",
+        "url": "https://www.cxyzjd.com/article/z372574152/105100524",
+        "folder": "書籤列/React",
+        "date_added": "13285324963000000",
+        "source": "chrome"
+      },
+      {
+        "title": "React Native教學 Part 1 - 詳盡新手入門 - Carson's Tech Note",
+        "url": "https://carsonwah.github.io/15221461803635.html",
+        "folder": "書籤列/React",
+        "date_added": "13256289320000000",
+        "source": "chrome"
+      },
+      {
+        "title": "React 中滑动手势的实现 - 知乎",
+        "url": "https://zhuanlan.zhihu.com/p/64528123",
+        "folder": "書籤列/nextJs",
+        "date_added": "13311072497961251",
+        "source": "chrome"
+      },
+      {
+        "title": "React-實現上拉載入更多 - IT閱讀",
+        "url": "https://www.itread01.com/content/1548951869.html",
+        "folder": "書籤列/React",
+        "date_added": "13282045383000000",
+        "source": "chrome"
+      },
+      {
+        "title": "react中引入图片怎么无法显示？ - html中文网",
+        "url": "https://m.html.cn/qa/react/16983.html",
+        "folder": "書籤列/React",
+        "date_added": "13265945710000000",
+        "source": "chrome"
+      },
+      {
+        "title": "地圖導覽教學Bread Crumb",
+        "url": "https://pjchender.dev/react/react-router-breadcrumb/",
+        "folder": "書籤列/nextJs",
+        "date_added": "13310718025529657",
+        "source": "chrome"
+      },
+      {
+        "title": "如何评价 RemixJS 作者发布的《Remix vs Next.js》blog ? - 知乎",
+        "url": "https://www.zhihu.com/question/512297034",
+        "folder": "書籤列/remixJS",
+        "date_added": "13296278511000000",
+        "source": "chrome"
+      },
+      {
+        "title": "布局Layout with Flexbox · React Native",
+        "url": "https://reactnative.dev/docs/flexbox",
+        "folder": "書籤列/React",
+        "date_added": "13281515630000000",
+        "source": "chrome"
+      },
+      {
+        "title": "建置React開發環境 · React - DOM界的彼方(繁中)",
+        "url": "https://eyesofkids.gitbooks.io/react-basic-zh-tw/content/day14_react_env/",
+        "folder": "書籤列/React",
+        "date_added": "13255174663000000",
+        "source": "chrome"
+      },
+      {
+        "title": "推撥React Native Remote Notification | Penueling 磐凌科技",
+        "url": "https://penueling.com/%E6%8A%80%E8%A1%93%E7%AD%86%E8%A8%98/react-native-remote-notification/",
+        "folder": "書籤列/React",
+        "date_added": "13285319751000000",
+        "source": "chrome"
+      },
+      {
+        "title": "權限檢查PermissionsAndroid · React Native",
+        "url": "https://reactnative.dev/docs/permissionsandroid",
+        "folder": "書籤列/React",
+        "date_added": "13289621173000000",
+        "source": "chrome"
+      },
+      {
+        "title": "简介 - 《React-Admin 开发手册》 - 书栈网 · BookStack",
+        "url": "https://www.bookstack.cn/read/react-admin/541f3800a3782d11.md",
+        "folder": "書籤列/React",
+        "date_added": "13262859255000000",
+        "source": "chrome"
+      },
+      {
+        "title": "詳解react-native-fs外掛的使用以及遇到的坑 | 程式前沿",
+        "url": "https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/230650/",
+        "folder": "書籤列/React",
+        "date_added": "13281168986000000",
+        "source": "chrome"
+      },
+      {
+        "title": "配置组件的 props | React.js 小书",
+        "url": "http://huziketang.mangojuice.top/books/react/lesson11",
+        "folder": "書籤列/React",
+        "date_added": "13255780679000000",
+        "source": "chrome"
+      }
+    ],
+    "Security/資源": [
+      {
+        "title": "10分鐘簡單學習net core整合jwt許可權認證，快速接入專案落地使用 | IT人",
+        "url": "https://iter01.com/638694.html",
+        "folder": "書籤列/api core",
+        "date_added": "13310103183396993",
+        "source": "chrome"
+      },
+      {
+        "title": "OLD-圖書狀態清單",
+        "url": "http://210.240.228.3/statls.htm",
+        "folder": "書籤列/已匯入/H-弘光科大",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "使用 SSL For Free 產生 Let’s Encrypt SSL 憑證上傳給 IIS 站台使用 – YA爸のIT技術筆記",
+        "url": "http://tech.smallya.net/2016/07/07/%E4%BD%BF%E7%94%A8-ssl-for-free-%E7%94%A2%E7%94%9F-lets-encrypt-ssl-%E6%86%91%E8%AD%89%E4%B8%8A%E5%82%B3%E7%B5%A6-iis-%E7%AB%99%E5%8F%B0%E4%BD%BF%E7%94%A8/",
+        "folder": "書籤列/nextJs",
+        "date_added": "13315370742588312",
+        "source": "chrome"
+      },
+      {
+        "title": "使用 Swashbuckle 請求時加入 【JWT】 | Clark Lin Blog",
+        "url": "https://clarklin.gitlab.io/2021/06/13/asp-dotnet-core-api-document-using-jwt/",
+        "folder": "書籤列/api core",
+        "date_added": "13304073400659509",
+        "source": "chrome"
+      },
+      {
+        "title": "在 Swagger UI 加上驗證按鈕，讓 Request Header 傳遞 Authorize Token | 伊果的沒人看筆記本",
+        "url": "https://igouist.github.io/post/2021/10/swagger-enable-authorize/",
+        "folder": "書籤列/api core",
+        "date_added": "13310115089345999",
+        "source": "chrome"
+      },
+      {
+        "title": "如何使用 Certbot 命令列工具建立免費的 TLS/SSL 頂層網域憑證 | The Will Will Web",
+        "url": "https://blog.miniasp.com/post/2021/02/11/Create-SSL-TLS-certificates-from-LetsEncrypt-using-Certbot#google_vignette",
+        "folder": "書籤列/nextJs",
+        "date_added": "13315371954453779",
+        "source": "chrome"
+      },
+      {
+        "title": "用 NextAuth 實作第三方登入",
+        "url": "https://blog.errorbaker.tw/posts/ruofan/next-auth/",
+        "folder": "書籤列/nextJs",
+        "date_added": "13299743911000000",
+        "source": "chrome"
+      },
+      {
+        "title": "網頁模板 - OneDrive",
+        "url": "https://onedrive.live.com/?authkey=%21AJVfwGc6CZwrKsI&id=70B482EAC358A15C%2167584&cid=70B482EAC358A15C",
+        "folder": "書籤列/shms7_Api",
+        "date_added": "13306986482556324",
+        "source": "chrome"
+      }
+    ],
+    "Swift/資源": [
+      {
+        "title": "1. 为什么要使用 RxSwift? · RxSwift 中文文档",
+        "url": "https://beeth0ven.github.io/RxSwift-Chinese-Documentation/content/why_rxswift.html",
+        "folder": "書籤列/Swift",
+        "date_added": "13337246908341059",
+        "source": "chrome"
+      },
+      {
+        "title": "@AppStorage 研究 | 肘子的Swift记事本",
+        "url": "https://www.fatbobman.com/posts/appstorage/",
+        "folder": "書籤列/Swift",
+        "date_added": "13340769547717739",
+        "source": "chrome"
+      },
+      {
+        "title": "[iOS] UIKeyboardType 鍵盤類型 | 逍遙文工作室",
+        "url": "https://cg2010studio.com/2012/11/15/ios-uikeyboardtype-%E9%8D%B5%E7%9B%A4%E9%A1%9E%E5%9E%8B/",
+        "folder": "書籤列/Swift",
+        "date_added": "13131430554000000",
+        "source": "chrome"
+      },
+      {
+        "title": "ARC無效 iOS Tutorial => Enable/Disable ARC on a file",
+        "url": "https://riptutorial.com/ios/example/14510/enable-disable-arc-on-a-file",
+        "folder": "書籤列/MB3 資安",
+        "date_added": "13303459127810444",
+        "source": "chrome"
+      },
+      {
+        "title": "Card View written in SwiftUI",
+        "url": "https://trailingclosure.com/product-card-in-swiftui/",
+        "folder": "書籤列/Swift",
+        "date_added": "13339565105815949",
+        "source": "chrome"
+      },
+      {
+        "title": "Change Button Label Text When It is Pressed in SwiftUI - SwiftSpeedy",
+        "url": "https://swiftspeedy.com/change-button-label-text-when-it-is-pressed-in-swiftui/",
+        "folder": "書籤列/Swift",
+        "date_added": "13337148058949900",
+        "source": "chrome"
+      },
+      {
+        "title": "Core Data · Swift 起步走",
+        "url": "https://itisjoe.gitbooks.io/swiftgo/content/database/coredata.html",
+        "folder": "書籤列/Swift",
+        "date_added": "13339749972030229",
+        "source": "chrome"
+      },
+      {
+        "title": "Custom TextField in SwiftUI",
+        "url": "https://thehappyprogrammer.com/custom-textfield-in-swiftui",
+        "folder": "書籤列/Swift",
+        "date_added": "13340182471218498",
+        "source": "chrome"
+      },
+      {
+        "title": "iOSApp間相互跳轉漫談part1 | 程式前沿",
+        "url": "https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/757152/",
+        "folder": "書籤列/React",
+        "date_added": "13294134560000000",
+        "source": "chrome"
+      },
+      {
+        "title": "JSON Parsing in Swift explained with code examples - SwiftLee",
+        "url": "https://www.avanderlee.com/swift/json-parsing-decoding/",
+        "folder": "書籤列/Swift",
+        "date_added": "13339848710757733",
+        "source": "chrome"
+      },
+      {
+        "title": "Parse search in iOS 8 with Swift - Shrikar Archak",
+        "url": "http://shrikar.com/parse-search-in-ios-8-with-swift/",
+        "folder": "書籤列/Swift",
+        "date_added": "13130845333000000",
+        "source": "chrome"
+      },
+      {
+        "title": "SQLite · Swift 起步走",
+        "url": "https://itisjoe.gitbooks.io/swiftgo/content/database/sqlite.html",
+        "folder": "書籤列/Swift",
+        "date_added": "13128599731000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Swift 30天實作30個iOS範例 | Soft & Share",
+        "url": "https://softnshare.wordpress.com/2016/02/23/swift-30%E5%A4%A9%E5%AF%A6%E4%BD%9C30%E5%80%8Bios%E7%AF%84%E4%BE%8B/",
+        "folder": "書籤列/Swift",
+        "date_added": "13141193815000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Text fields - Material Design",
+        "url": "https://m2.material.io/components/text-fields/ios",
+        "folder": "書籤列/Swift",
+        "date_added": "13339820479630349",
+        "source": "chrome"
+      },
+      {
+        "title": "UITableView 的編輯模式 · Swift 起步走",
+        "url": "https://itisjoe.gitbooks.io/swiftgo/content/apps/todo/edituitableview.html",
+        "folder": "書籤列/Swift",
+        "date_added": "13130845328000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Using Combine",
+        "url": "https://heckj.github.io/swiftui-notes/#core-publisher-subscriber",
+        "folder": "書籤列/Swift",
+        "date_added": "13337314685803143",
+        "source": "chrome"
+      },
+      {
+        "title": "View Controller 各事件發生順序介紹 | 暢想資源",
+        "url": "http://www.arefly.com/ios-view-controller-event/",
+        "folder": "書籤列/Swift",
+        "date_added": "13131190984000000",
+        "source": "chrome"
+      },
+      {
+        "title": "利用 SwiftUI 控件　讓你更彈性地設計專屬你的按鈕！",
+        "url": "https://www.appcoda.com.tw/swiftui-button/",
+        "folder": "書籤列/Swift",
+        "date_added": "13337148897762452",
+        "source": "chrome"
+      },
+      {
+        "title": "在 iOS 15 中為 SwiftUI 按鈕設置樣式　大大節省開發時間",
+        "url": "https://www.appcoda.com.tw/swiftui-buttons-ios-15/",
+        "folder": "書籤列/Swift",
+        "date_added": "13339825919297804",
+        "source": "chrome"
+      },
+      {
+        "title": "在 SwiftUI 下定制手势-腾讯云开发者社区-腾讯云",
+        "url": "https://cloud.tencent.com/developer/article/2059869",
+        "folder": "書籤列/Swift",
+        "date_added": "13344331634194541",
+        "source": "chrome"
+      },
+      {
+        "title": "在 SwiftUI 使用新的 NavigationStack 視圖　輕鬆構建資料導向的導航",
+        "url": "https://www.appcoda.com.tw/navigationstack/",
+        "folder": "其他書籤",
+        "date_added": "13339651243219452",
+        "source": "chrome"
+      },
+      {
+        "title": "實現 iOS App 與網站之間互通的 Universal Links - 亂碼中的煉金術",
+        "url": "https://blog.dreambreakerx.com/2018/09/universal-links/",
+        "folder": "書籤列/React",
+        "date_added": "13293696607000000",
+        "source": "chrome"
+      },
+      {
+        "title": "泊学 - 一个全栈工程师的自学网站",
+        "url": "https://boxueio.com/series/rxswift-101",
+        "folder": "書籤列/Swift",
+        "date_added": "13337249949985034",
+        "source": "chrome"
+      },
+      {
+        "title": "深入了解 SwiftUI 5 中 ScrollView 的新功能 | 肘子的Swift记事本",
+        "url": "https://www.fatbobman.com/posts/new-features-of-ScrollView-in-SwiftUI5/",
+        "folder": "書籤列/Swift",
+        "date_added": "13344075034569903",
+        "source": "chrome"
+      },
+      {
+        "title": "第 23 章 - 探索 CloudKit · iOS 16 App 程式設計實戰心法 - Swift + SwiftUI（試閱版）",
+        "url": "https://www.appcoda.com.tw/learnswift/cloudkit.html",
+        "folder": "書籤列/Swift",
+        "date_added": "13337250346231545",
+        "source": "chrome"
+      },
+      {
+        "title": "第 3 章 - 使用 Swift 與 SwiftUI 建立你的第一個 App · iOS 16 App 程式設計實戰心法 - Swift + SwiftUI（試閱版）",
+        "url": "https://www.appcoda.com.tw/learnswift/swiftui-basics.html",
+        "folder": "書籤列/Swift",
+        "date_added": "13336723852394751",
+        "source": "chrome"
+      },
+      {
+        "title": "線上 SwiftFiddle - Swift Online Playground",
+        "url": "https://swiftfiddle.com/",
+        "folder": "書籤列/Swift",
+        "date_added": "13337401310841972",
+        "source": "chrome"
+      },
+      {
+        "title": "表格 UITableView · Swift 起步走",
+        "url": "https://itisjoe.gitbooks.io/swiftgo/content/uikit/uitableview.html",
+        "folder": "書籤列/Swift",
+        "date_added": "13130845346000000",
+        "source": "chrome"
+      },
+      {
+        "title": "針對 TLS/SSL 問題進行疑難排解 (MSAL iOS/macOS) - Microsoft Entra | Microsoft Learn",
+        "url": "https://learn.microsoft.com/zh-tw/azure/active-directory/develop/ssl-issues",
+        "folder": "書籤列/MB3 資安",
+        "date_added": "13311915745921088",
+        "source": "chrome"
+      },
+      {
+        "title": "［已解决］Swift中使用了pushViewController但是却没有跳转到新页面 | 在路上",
+        "url": "http://www.crifan.com/swift_use_pushviewcontroller_but_not_jump_to_new_page/",
+        "folder": "書籤列/Swift",
+        "date_added": "13125639698000000",
+        "source": "chrome"
+      }
+    ],
+    "Testing/資源": [
+      {
+        "title": "職業安全衛生管理職類術科線上測試",
+        "url": "https://edusite.iscom.com.tw/WDA_OSHTest/Home/Login",
+        "folder": "書籤列/Vue",
+        "date_added": "13252483933000000",
+        "source": "chrome"
+      }
+    ],
+    "Tools/資源": [
+      {
+        "title": " webpack 5 (2020)",
+        "url": "https://www.valentinog.com/blog/webpack/",
+        "folder": "書籤列/React",
+        "date_added": "13257244963000000",
+        "source": "chrome"
+      },
+      {
+        "title": "MobSF \"IPA Binary Analysis\" | Step by Step",
+        "url": "https://inesmartins.github.io/mobsf-ipa-binary-analysis-step-by-step/index.html",
+        "folder": "書籤列/MB3 資安",
+        "date_added": "13303453530735475",
+        "source": "chrome"
+      },
+      {
+        "title": "Mr. Data Converter",
+        "url": "http://shancarter.github.io/mr-data-converter/",
+        "folder": "書籤列/JS",
+        "date_added": "13227003398000000",
+        "source": "chrome"
+      }
+    ],
+    "TypeScript/資源": [
+      {
+        "title": "Gmail",
+        "url": "https://accounts.google.com/b/0/AddMailService",
+        "folder": "書籤列",
+        "date_added": "13300449776055011",
+        "source": "chrome"
+      },
+      {
+        "title": "jQuery DataTables Checkboxes | Gyrocode.com",
+        "url": "https://www.gyrocode.com/projects/jquery-datatables-checkboxes/",
+        "folder": "書籤列/shms7_Api",
+        "date_added": "13308138396696347",
+        "source": "chrome"
+      },
+      {
+        "title": "基于jQuery Bootstrap4的Toast提示插件 - 素材火",
+        "url": "https://www.sucaihuo.com/js/4998.html",
+        "folder": "書籤列/JS",
+        "date_added": "13234503076000000",
+        "source": "chrome"
+      },
+      {
+        "title": "漸色圖片Fresh Background Gradients | WebGradients.com 💎",
+        "url": "https://webgradients.com/",
+        "folder": "書籤列/React",
+        "date_added": "13289304018000000",
+        "source": "chrome"
+      },
+      {
+        "title": "首页 - 光年(Light Year Admin)后台管理系统模板",
+        "url": "http://lyear.itshubao.com/",
+        "folder": "書籤列/shms7_Api",
+        "date_added": "13288672078000000",
+        "source": "chrome"
+      },
+      {
+        "title": "點擊網頁廣告就打開APP? 淺談手機APP的深度連結Deep Link的演進(Universal Link)",
+        "url": "https://progressbar.tw/posts/264",
+        "folder": "書籤列/React",
+        "date_added": "13293161129000000",
+        "source": "chrome"
+      }
+    ],
+    "Vue": [
+      {
+        "title": "職業安全系統登入窗口",
+        "url": "http://220.132.42.186:180/shms7/login.html",
+        "folder": "書籤列/Vue",
+        "date_added": "13246355142000000",
+        "source": "chrome"
+      }
+    ],
+    "Vue/資源": [
+      {
+        "title": "CHU_M7問題反應清",
+        "url": "https://docs.google.com/spreadsheets/d/1dfDD1bVETAfJz55vuezigFyQ8X__8MR4-TNiYjmDsVk/edit?pli=1#gid=0",
+        "folder": "書籤列/已匯入/Z-中華大學",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "vue實現倒計時的外掛 時間戳 重新整理 跳轉 都不影響 - IT閱讀",
+        "url": "https://www.itread01.com/content/1550095587.html",
+        "folder": "書籤列/Vue",
+        "date_added": "13253015974000000",
+        "source": "chrome"
+      },
+      {
+        "title": "在Vue中如何使用Cookie操作例項 | 程式前沿",
+        "url": "https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/232903/",
+        "folder": "書籤列/Vue",
+        "date_added": "13251804389000000",
+        "source": "chrome"
+      }
+    ],
+    "中文技術/CSDN": [
+      {
+        "title": "2020年最新 java JDK 11 下载、安装与环境变量配置教程_天天上网_c的博客-CSDN博客",
+        "url": "https://blog.csdn.net/qq_41873673/article/details/108027074",
+        "folder": "書籤列/MB3 資安",
+        "date_added": "13313558261716081",
+        "source": "chrome"
+      },
+      {
+        "title": "Android网络安全之NetworkSecurityConfig http https 应用_<?xml version=\"1.0\" encoding=\"utf-8\"?><network-sec-CSDN博客",
+        "url": "https://blog.csdn.net/chuyouyinghe/article/details/124825201?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-124825201-blog-108063189.235^v43^control&spm=1001.2101.3001.4242.1&utm_relevant_index=1",
+        "folder": "書籤列",
+        "date_added": "13361513347720619",
+        "source": "chrome"
+      },
+      {
+        "title": "Deferred Deeplink（延展的深度链接）_zzhongcy的博客-CSDN博客_延迟deeplink",
+        "url": "https://blog.csdn.net/zzhongcy/article/details/118602343",
+        "folder": "書籤列/React",
+        "date_added": "13293165630000000",
+        "source": "chrome"
+      },
+      {
+        "title": "iOS Automatic Reference Counting(ARC)_余书懿的博客-CSDN博客",
+        "url": "https://blog.csdn.net/ysy441088327/article/details/7958449",
+        "folder": "書籤列/MB3 資安",
+        "date_added": "13303963122225091",
+        "source": "chrome"
+      },
+      {
+        "title": "ios xcode 支持https 遇到的问题_要么庸俗,要么孤独-CSDN博客",
+        "url": "https://blog.csdn.net/yyc_quietly/article/details/71708802?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7EHighlightScore-2.queryctrv2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7EHighlightScore-2.queryctrv2&utm_relevant_index=5",
+        "folder": "書籤列/React",
+        "date_added": "13290228158000000",
+        "source": "chrome"
+      },
+      {
+        "title": "IOS-TextField知多少 - Monica的专栏 - 博客频道 - CSDN.NET",
+        "url": "http://blog.csdn.net/tskyfree/article/details/8121915",
+        "folder": "書籤列/Swift",
+        "date_added": "13129632094000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Jquery table 中checkbox获取选中行的所有列的数据_FameLee-的博客-CSDN博客_jquery获取table选中行数据",
+        "url": "https://blog.csdn.net/qq_40138785/article/details/81632574",
+        "folder": "書籤列/shms7_Api",
+        "date_added": "13308138791904057",
+        "source": "chrome"
+      },
+      {
+        "title": "json中key包含特殊字符时取值问题_qinzhengping的博客-CSDN博客",
+        "url": "https://blog.csdn.net/qinzhengping/article/details/84258165",
+        "folder": "書籤列/React",
+        "date_added": "13283587337000000",
+        "source": "chrome"
+      },
+      {
+        "title": "OC开发之——xcode新版本如何设置ARC(36)_PGzxc的博客-CSDN博客_xcode 设置arc",
+        "url": "https://blog.csdn.net/Calvin_zhou/article/details/105462135",
+        "folder": "書籤列/MB3 資安",
+        "date_added": "13303968113363894",
+        "source": "chrome"
+      },
+      {
+        "title": "react native 0.595 在安卓9.0版 release包无法联网_M周-CSDN博客",
+        "url": "https://blog.csdn.net/qq_36538734/article/details/90476288",
+        "folder": "書籤列/React",
+        "date_added": "13285322608000000",
+        "source": "chrome"
+      },
+      {
+        "title": "React-Native 使用真机和指定模拟器调试_小桥流水哗啦啦，iOS Coder 哒哒哒-CSDN博客",
+        "url": "https://blog.csdn.net/qq_14920635/article/details/109240970",
+        "folder": "書籤列/React",
+        "date_added": "13284610911000000",
+        "source": "chrome"
+      },
+      {
+        "title": "react-native打包release版本闪退_suwu150-CSDN博客_react-native 打包闪退",
+        "url": "https://suwu150.blog.csdn.net/article/details/81079093?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link&utm_relevant_index=1",
+        "folder": "書籤列/React",
+        "date_added": "13285320375000000",
+        "source": "chrome"
+      },
+      {
+        "title": "ReactNative安卓HTTP请求_react-native安卓11环境发送http请求获取数据-CSDN博客",
+        "url": "https://blog.csdn.net/m0_37797410/article/details/114735354",
+        "folder": "書籤列/React",
+        "date_added": "13361519738116325",
+        "source": "chrome"
+      },
+      {
+        "title": "ReactNative手势上滑隐藏下滑显示_小小T的专栏-CSDN博客",
+        "url": "https://blog.csdn.net/u010127332/article/details/89000904",
+        "folder": "書籤列/React",
+        "date_added": "13282033224000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Swift navigationItem 属性常用设置 - - 博客频道 - CSDN.NET",
+        "url": "http://blog.csdn.net/lwjok2007/article/details/48373373",
+        "folder": "書籤列/Swift",
+        "date_added": "13125637541000000",
+        "source": "chrome"
+      },
+      {
+        "title": "SwiftUI iOS 应用退出时保存数据_swift app关闭时保存数据-CSDN博客",
+        "url": "https://blog.csdn.net/iCloudEnd/article/details/115700250",
+        "folder": "書籤列/Swift",
+        "date_added": "13340712399603039",
+        "source": "chrome"
+      },
+      {
+        "title": "SwiftUI——Core Data数据库的使用（在纯SwiftUI生命周期中）_zhonguncle的博客-CSDN博客",
+        "url": "https://blog.csdn.net/qq_33919450/article/details/118544976",
+        "folder": "書籤列/Swift",
+        "date_added": "13339759748146740",
+        "source": "chrome"
+      },
+      {
+        "title": "Xcode12 设置允许http连接_xcode项目添加http权限-CSDN博客",
+        "url": "https://blog.csdn.net/kicinio/article/details/111997590",
+        "folder": "書籤列/Swift",
+        "date_added": "13340084934738603",
+        "source": "chrome"
+      },
+      {
+        "title": "两个静态html页面传值方法的总结_JavaScript_默默前行，勿喜、勿悲、一切随缘！-CSDN博客",
+        "url": "https://blog.csdn.net/csdn_ds/article/details/78393564",
+        "folder": "書籤列/JS",
+        "date_added": "13228823094000000",
+        "source": "chrome"
+      },
+      {
+        "title": "按钮固定在底部区域_Xiao_ShiGuang_941111的博客-CSDN博客",
+        "url": "https://blog.csdn.net/Xiao_ShiGuang_941111/article/details/120185510?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-2.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-2.no_search_link",
+        "folder": "書籤列/React",
+        "date_added": "13281519014000000",
+        "source": "chrome"
+      },
+      {
+        "title": "按键精灵手机版（安卓 ios） 如何连接远程网络数据库 比如 sql server, 进行读写操作 云端自动化等_qq_18816201的博客-CSDN博客_按键精灵安卓版如何对接数据库",
+        "url": "https://blog.csdn.net/qq_18816201/article/details/83150245",
+        "folder": "書籤列/VB",
+        "date_added": "13239422077000000",
+        "source": "chrome"
+      },
+      {
+        "title": "用jquery的ajax方法获取return返回值的正确姿势_JavaScript_凌凌小博客-CSDN博客",
+        "url": "https://blog.csdn.net/qq_35923749/article/details/79950533",
+        "folder": "書籤列/JS",
+        "date_added": "13228534639000000",
+        "source": "chrome"
+      }
+    ],
+    "中文技術/博客園": [
+      {
+        "title": ".Net Core WebApi上传图片的方式（两种） - leoxuan - 博客园",
+        "url": "https://www.cnblogs.com/leoxuan/articles/11087121.html",
+        "folder": "書籤列/C#/MVC CORE/上傳圖片",
+        "date_added": "13272628321000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Asp.net Core认证和授权：JWT认证和授权 - 糯米粥 - 博客园",
+        "url": "https://www.cnblogs.com/nsky/p/10312101.html",
+        "folder": "書籤列/JS",
+        "date_added": "13234240790000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Asp.net MVC 批量删除数据 - 一夜秋2014 - 博客园",
+        "url": "https://www.cnblogs.com/qk2014/p/3777744.html",
+        "folder": "書籤列/shms7_Api",
+        "date_added": "13308220661159428",
+        "source": "chrome"
+      },
+      {
+        "title": "ASP.NET MVC一次删除多笔记录 - Insus.NET - 博客园",
+        "url": "https://www.cnblogs.com/insus/p/6241186.html",
+        "folder": "書籤列/shms7_Api",
+        "date_added": "13308220085486329",
+        "source": "chrome"
+      },
+      {
+        "title": "iOS 访问非法https域名报错 NSURLErrorDomain Code=-1200 - XL-MS - 博客园",
+        "url": "https://www.cnblogs.com/wxlmss/p/15323163.html",
+        "folder": "書籤列/MB3 資安",
+        "date_added": "13311916346862647",
+        "source": "chrome"
+      },
+      {
+        "title": "vue父组件触发子组件事件 - join-ZH - 博客园",
+        "url": "https://www.cnblogs.com/zhanghao-repository/p/9037225.html",
+        "folder": "書籤列/Vue",
+        "date_added": "13254367154000000",
+        "source": "chrome"
+      },
+      {
+        "title": "解决react hook组件卸载数据处于加载中渲染组件状态Can't perform a React state update on an unmounted component. This is a no-op, but it indicates a memory leak in your application. To fix, cancel all subscriptions an - 月亮出来了 - 博客园",
+        "url": "https://www.cnblogs.com/seemoon/p/12744957.html",
+        "folder": "書籤列/React",
+        "date_added": "13282635627000000",
+        "source": "chrome"
+      }
+    ],
+    "中文技術/掘金": [
+      {
+        "title": "Jetpack Compose Modifier用法详解 - 掘金",
+        "url": "https://juejin.cn/post/6950197175095656462",
+        "folder": "書籤列/kotlin",
+        "date_added": "13347355522933303",
+        "source": "chrome"
+      },
+      {
+        "title": "stop timer swift 5-掘金",
+        "url": "https://juejin.cn/s/stop%20timer%20swift%205",
+        "folder": "書籤列/Swift",
+        "date_added": "13344081774383198",
+        "source": "chrome"
+      },
+      {
+        "title": "swift5 string substring-掘金",
+        "url": "https://juejin.cn/s/swift5%20string%20substring",
+        "folder": "書籤列/Swift",
+        "date_added": "13339588654461278",
+        "source": "chrome"
+      },
+      {
+        "title": "SwiftUI极简教程20:CoreData数据持久化框架的使用（上） - 掘金",
+        "url": "https://juejin.cn/post/7088512902193217567",
+        "folder": "書籤列/Swift",
+        "date_added": "13339758937445082",
+        "source": "chrome"
+      }
+    ],
+    "中文技術/簡書": [
+      {
+        "title": "IOS Swift 3.0 UITextfield 常用设置及代理方法 - 简书",
+        "url": "http://www.jianshu.com/p/fe823f92baed",
+        "folder": "書籤列/Swift",
+        "date_added": "13131430457000000",
+        "source": "chrome"
+      },
+      {
+        "title": "iOS Swift5.0使用URLSession get和post网络请求 - 簡書",
+        "url": "https://www.jianshu.com/p/4496ed1ccd5d",
+        "folder": "書籤列/Swift",
+        "date_added": "13339127222369113",
+        "source": "chrome"
+      },
+      {
+        "title": "React-native 用ART绘制图形验证码 - 簡書",
+        "url": "https://www.jianshu.com/p/35bd93e36fbd",
+        "folder": "書籤列/RN",
+        "date_added": "13316686138523777",
+        "source": "chrome"
+      },
+      {
+        "title": "swift 3.0 自定义转场动画 - 简书",
+        "url": "http://www.jianshu.com/p/284ca6450942",
+        "folder": "書籤列/Swift",
+        "date_added": "13126871241000000",
+        "source": "chrome"
+      },
+      {
+        "title": "UITableView 编辑模式 - 简书",
+        "url": "http://www.jianshu.com/p/aaf2c88c58f0",
+        "folder": "書籤列/Swift",
+        "date_added": "13131006677000000",
+        "source": "chrome"
+      }
+    ],
+    "其他書籤": [
+      {
+        "title": "中國文化大學圖書館圖書推薦採訪整合系統",
+        "url": "chrome-extension://hehijbfgiekmjfkfjpbkbammjbdenadd/nhc.htm#url=https://weblink.pccu.edu.tw/weblink/",
+        "folder": "其他書籤",
+        "date_added": "13341045888146204",
+        "source": "chrome"
+      },
+      {
+        "title": "來自 Microsoft Designer 的影像建立工具",
+        "url": "https://www.bing.com/images/create",
+        "folder": "其他書籤",
+        "date_added": "13349351943819109",
+        "source": "chrome"
+      }
+    ],
+    "學習資源/iT邦幫忙": [
+      {
+        "title": "2023 iThome 鐵人賽",
+        "url": "https://ithelp.ithome.com.tw/2020-12th-ironman/articles/2936?page=1",
+        "folder": "書籤列/Swift",
+        "date_added": "13337254689458387",
+        "source": "chrome"
+      },
+      {
+        "title": "30 天了解 Swift 的 Combine: [01] What is Combine? - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+        "url": "https://ithelp.ithome.com.tw/articles/10215468",
+        "folder": "書籤列/Swift",
+        "date_added": "13337313843937842",
+        "source": "chrome"
+      },
+      {
+        "title": "[ 卡卡 DAY 25 ] - React Native 手機裝置 keyboard 問題之 右下角的 next and go 設定 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+        "url": "https://ithelp.ithome.com.tw/articles/10278318",
+        "folder": "書籤列/RN",
+        "date_added": "13321703818480939",
+        "source": "chrome"
+      },
+      {
+        "title": "[Day12] ASP.NET Core 2 系列 - REST-Like API - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+        "url": "https://ithelp.ithome.com.tw/articles/10194989",
+        "folder": "書籤列/api core",
+        "date_added": "13227861210000000",
+        "source": "chrome"
+      },
+      {
+        "title": "[Day25]在MVC的View當中取得選取到多個checkbox裡的值 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+        "url": "https://ithelp.ithome.com.tw/articles/10224316",
+        "folder": "書籤列/shms7_Api",
+        "date_added": "13308136580984314",
+        "source": "chrome"
+      },
+      {
+        "title": "[蚊子的Day9]StyleSheet格式設定大彙整～React Native - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+        "url": "https://ithelp.ithome.com.tw/articles/10236579",
+        "folder": "書籤列/RN",
+        "date_added": "13321680855034552",
+        "source": "chrome"
+      },
+      {
+        "title": "[面試][白板題]設計一個簡易的抽獎程式 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+        "url": "https://ithelp.ithome.com.tw/articles/10278453",
+        "folder": "書籤列/nextJs",
+        "date_added": "13311849168662758",
+        "source": "chrome"
+      },
+      {
+        "title": "Day 6 ｜ Swift 特別型別：Optionals - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+        "url": "https://ithelp.ithome.com.tw/articles/10234478",
+        "folder": "書籤列/Swift",
+        "date_added": "13339063309722036",
+        "source": "chrome"
+      },
+      {
+        "title": "Day01 - 系列文介紹、規劃 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+        "url": "https://ithelp.ithome.com.tw/articles/10265115",
+        "folder": "書籤列/nextJs",
+        "date_added": "13300955747476439",
+        "source": "chrome"
+      },
+      {
+        "title": "Day14 - 在 Next.js 如何做 authentication - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+        "url": "https://ithelp.ithome.com.tw/articles/10274426",
+        "folder": "書籤列/nextJs",
+        "date_added": "13300251521000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Day15 - 在 Next.js 做 JWT 驗證，使用既有的 Backend API - PART 1 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+        "url": "https://ithelp.ithome.com.tw/articles/10275078",
+        "folder": "書籤列/nextJs",
+        "date_added": "13310121383321814",
+        "source": "chrome"
+      },
+      {
+        "title": "Day16 - 在 Next.js 做 JWT 驗證，使用既有的 Backend API - PART 2 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+        "url": "https://ithelp.ithome.com.tw/articles/10275660",
+        "folder": "書籤列/nextJs",
+        "date_added": "13309603892559721",
+        "source": "chrome"
+      },
+      {
+        "title": "iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+        "url": "https://ithelp.ithome.com.tw/users/20142011/ironman",
+        "folder": "書籤列/React",
+        "date_added": "13281007139000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Next.js & Server - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+        "url": "https://ithelp.ithome.com.tw/articles/10190619",
+        "folder": "書籤列/nextJs",
+        "date_added": "13296204135000000",
+        "source": "chrome"
+      },
+      {
+        "title": "React 學習筆記_18(JSON Server) - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+        "url": "https://ithelp.ithome.com.tw/articles/10230821",
+        "folder": "書籤列/React",
+        "date_added": "13260266488000000",
+        "source": "chrome"
+      },
+      {
+        "title": "React 學習筆記_19(在React中使用Axios調用JSON-Server數據) - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+        "url": "https://ithelp.ithome.com.tw/articles/10230822",
+        "folder": "書籤列/React",
+        "date_added": "13260266492000000",
+        "source": "chrome"
+      },
+      {
+        "title": "【React.js入門 - 29】 使用圖片、使用css檔、新手容易遇到的問題 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+        "url": "https://ithelp.ithome.com.tw/articles/10226711",
+        "folder": "書籤列/React/CSS",
+        "date_added": "13264735468000000",
+        "source": "chrome"
+      },
+      {
+        "title": "【從零開始的Swift開發心路歷程2-Day1】前言 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+        "url": "https://ithelp.ithome.com.tw/articles/10288030",
+        "folder": "書籤列/Swift",
+        "date_added": "13337677233775032",
+        "source": "chrome"
+      },
+      {
+        "title": "在https中使用http - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+        "url": "https://ithelp.ithome.com.tw/questions/10185482",
+        "folder": "書籤列/nextJs",
+        "date_added": "13309346560926697",
+        "source": "chrome"
+      },
+      {
+        "title": "產品設計師的 Chakra UI & framer-motion 實作筆記 :: 2022 iThome 鐵人賽",
+        "url": "https://ithelp.ithome.com.tw/users/20151365/ironman/5227",
+        "folder": "書籤列/nextJs",
+        "date_added": "13315024982628854",
+        "source": "chrome"
+      },
+      {
+        "title": "第 1 天 - 前言 & RxSwift 簡介 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+        "url": "https://ithelp.ithome.com.tw/articles/10237162",
+        "folder": "書籤列/Swift",
+        "date_added": "13337311384357921",
+        "source": "chrome"
+      },
+      {
+        "title": "第13車廂-table界的神器!DataTables介紹篇(3) - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天",
+        "url": "https://ithelp.ithome.com.tw/articles/10273564",
+        "folder": "書籤列/shms7_Api",
+        "date_added": "13289023371000000",
+        "source": "chrome"
+      },
+      {
+        "title": "雙平台APP小遊戲開發實作! Swift & Kotlin 攜手出擊~ :: 2021 iThome 鐵人賽",
+        "url": "https://ithelp.ithome.com.tw/users/20138547/ironman/4249?page=2",
+        "folder": "書籤列/kotlin",
+        "date_added": "13330060341173993",
+        "source": "chrome"
+      }
+    ],
+    "影音學習/YouTube": [
+      {
+        "title": " Core Data Tutorial in SwiftUI (2022) - YouTube",
+        "url": "https://www.youtube.com/watch?v=O0FSDNOXCl0",
+        "folder": "書籤列/Swift",
+        "date_added": "13339751275850918",
+        "source": "chrome"
+      },
+      {
+        "title": "(1) Animated Login Form in React Native (#1 UI) - YouTube",
+        "url": "https://www.youtube.com/watch?v=dj0zN72phDo",
+        "folder": "書籤列/RN",
+        "date_added": "13323318988952462",
+        "source": "chrome"
+      },
+      {
+        "title": "(1) Building a Complete Login Registration Flow in Jetpack Compose | Step-by-Step Tutorial - YouTube",
+        "url": "https://www.youtube.com/watch?v=PeUERQJnHdI",
+        "folder": "書籤列/kotlin",
+        "date_added": "13346325188334437",
+        "source": "chrome"
+      },
+      {
+        "title": "Creating roles in asp net core - YouTube",
+        "url": "https://www.youtube.com/watch?v=TuJd2Ez9i3I",
+        "folder": "書籤列/C#/MVC CORE/身分驗證",
+        "date_added": "13271157793000000",
+        "source": "chrome"
+      },
+      {
+        "title": "How to use auto focus in TextInput Using Refs in react native full Example - YouTube",
+        "url": "https://www.youtube.com/watch?v=5BYPaQs_NAo",
+        "folder": "書籤列/RN",
+        "date_added": "13321701135511090",
+        "source": "chrome"
+      },
+      {
+        "title": "Jetpack Compose - Retrofit with MVVM and HILT - Complete App | CheezyCode Hindi - YouTube",
+        "url": "https://www.youtube.com/watch?v=uUBcyvw3uDE",
+        "folder": "書籤列/kotlin",
+        "date_added": "13345288485004987",
+        "source": "chrome"
+      },
+      {
+        "title": "Jetpack Compose - Viewmodels and Repository + MVVM - Complete App | CheezyCode Hindi - YouTube",
+        "url": "https://www.youtube.com/watch?v=J3eV0NB8b7I",
+        "folder": "書籤列/kotlin",
+        "date_added": "13345289858365049",
+        "source": "chrome"
+      },
+      {
+        "title": "Kotlin 是世界上最好的語言 - YouTube",
+        "url": "https://www.youtube.com/watch?v=AuP004uHMDU",
+        "folder": "書籤列/kotlin",
+        "date_added": "13323405057817637",
+        "source": "chrome"
+      },
+      {
+        "title": "Next Auth Sign in With Credentials - YouTube",
+        "url": "https://www.youtube.com/watch?v=EFucgPdjeNg",
+        "folder": "書籤列/nextJs",
+        "date_added": "13310192775099498",
+        "source": "chrome"
+      },
+      {
+        "title": "Next.js Tutorial - Part 4 | API Routes using SQL Database - YouTube",
+        "url": "https://www.youtube.com/watch?v=PxiQDo0CmDE",
+        "folder": "書籤列/nextJs",
+        "date_added": "13301136722122288",
+        "source": "chrome"
+      },
+      {
+        "title": "Next.js丨next-auth 登入和登出丨小康 - YouTube",
+        "url": "https://www.youtube.com/watch?v=D9YjiYAjE70",
+        "folder": "書籤列/nextJs",
+        "date_added": "13299670212000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Swift: POST API Calls (URLRequest + REST) – Xcode, 2022, iOS for Beginners - YouTube",
+        "url": "https://www.youtube.com/watch?v=o3Rkg6WmZoY",
+        "folder": "書籤列/Swift",
+        "date_added": "13339064887712406",
+        "source": "chrome"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://youtube.com/",
+        "folder": "書籤列",
+        "date_added": "13300449776056244",
+        "source": "chrome"
+      },
+      {
+        "title": "下拉 SwiftUI Disclosure Groups - YouTube",
+        "url": "https://www.youtube.com/watch?v=CmzXYTEv3KM",
+        "folder": "書籤列/Swift",
+        "date_added": "13337235259209415",
+        "source": "chrome"
+      },
+      {
+        "title": "實作食物清單 List、懸浮按鈕、AnyLayout - SwiftUI 新手入門 - YouTube",
+        "url": "https://www.youtube.com/watch?v=6tdM7cHWOqk",
+        "folder": "書籤列/Swift",
+        "date_added": "13344571649336585",
+        "source": "chrome"
+      },
+      {
+        "title": "新亮度 React Native: How to Adjust Screen Brightness - YouTube",
+        "url": "https://www.youtube.com/watch?v=lj7lPCNIbRM",
+        "folder": "書籤列/RN",
+        "date_added": "13337341881887737",
+        "source": "chrome"
+      }
+    ],
+    "後端/API": [
+      {
+        "title": "6.128法規鑑別管理系統",
+        "url": "http://192.168.6.128/shms7/login.html?v=law",
+        "folder": "書籤列/shms7_Api",
+        "date_added": "13291177620000000",
+        "source": "chrome"
+      },
+      {
+        "title": "[JQuery] DataTables相關資料與屬性設置",
+        "url": "https://blog.littlemoon.tw/2012/01/jquery-datatables.html",
+        "folder": "書籤列/shms7_Api",
+        "date_added": "13288843575000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Hub_Erp Login",
+        "url": "https://220.135.65.95/huberp/Login?ReturnUrl=%2Fhuberp",
+        "folder": "書籤列/shms7_Api",
+        "date_added": "13287649133000000",
+        "source": "chrome"
+      },
+      {
+        "title": "jQuery DataTables: How to add a checkbox column | Gyrocode.com",
+        "url": "https://www.gyrocode.com/articles/jquery-datatables-how-to-add-a-checkbox-column/",
+        "folder": "書籤列/shms7_Api",
+        "date_added": "13308216725847880",
+        "source": "chrome"
+      },
+      {
+        "title": "本地-法規鑑別",
+        "url": "http://localhost/shms7/lawList.html#",
+        "folder": "書籤列/shms7_Api",
+        "date_added": "13287632896000000",
+        "source": "chrome"
+      },
+      {
+        "title": "法規鑑別",
+        "url": "http://220.135.65.95/shms7/lawList.html#",
+        "folder": "書籤列/shms7_Api",
+        "date_added": "13287561109000000",
+        "source": "chrome"
+      }
+    ],
+    "技術文章/Dev.to": [
+      {
+        "title": "網站導覽地圖 Building Dynamic Breadcrumbs in NextJS - DEV Community 👩‍💻👨‍💻",
+        "url": "https://dev.to/dan_starner/building-dynamic-breadcrumbs-in-nextjs-17oa",
+        "folder": "書籤列/nextJs",
+        "date_added": "13310717838682814",
+        "source": "chrome"
+      }
+    ],
+    "技術文章/Medium": [
+      {
+        "title": "[Android] 一起來學好 Retrofit + MVVM (1) | by Andy Lu | Medium",
+        "url": "https://andyludeveloper.medium.com/android-%E4%B8%80%E8%B5%B7%E4%BE%86%E5%AD%B8%E5%A5%BD-retrofit-mvvm-1-877c56ebdd44",
+        "folder": "書籤列/kotlin",
+        "date_added": "13346759540930945",
+        "source": "chrome"
+      },
+      {
+        "title": "Android 14 (SDK 34) support for React Native ver <=0.69.x | by Hitesh Jha | Medium",
+        "url": "https://medium.com/@zahitesh/android-14-sdk-34-support-for-react-native-ver-0-69-x-2554f4dc937d",
+        "folder": "書籤列/RN",
+        "date_added": "13365152685419402",
+        "source": "chrome"
+      },
+      {
+        "title": "Android的依賴注入－Hilt函式庫. 依賴注入(Dependency… | by 廖時賢 | Medium",
+        "url": "https://jimmy4302001.medium.com/android%E7%9A%84%E4%BE%9D%E8%B3%B4%E6%B3%A8%E5%85%A5-hilt%E5%87%BD%E5%BC%8F%E5%BA%AB-2514c1f2fa65",
+        "folder": "書籤列/kotlin",
+        "date_added": "13346391747654894",
+        "source": "chrome"
+      },
+      {
+        "title": "Dependency Injection With Dagger Hilt in Kotlin | by Ahmet Bostanciklioglu | Medium",
+        "url": "https://medium.com/@ahmetbostanciklioglu/dependency-injection-with-dagger-hilt-in-kotlin-f450fc946ba9",
+        "folder": "書籤列/kotlin",
+        "date_added": "13346392402423365",
+        "source": "chrome"
+      },
+      {
+        "title": "iOS Deferred Deep Link 延遲深度連結實作(Swift) | by ZhgChgLi | ZRealm Dev. | Medium",
+        "url": "https://medium.com/zrealm-ios-dev/ios-deferred-deep-link-%E5%BB%B6%E9%81%B2%E6%B7%B1%E5%BA%A6%E9%80%A3%E7%B5%90%E5%AF%A6%E4%BD%9C-swift-b08ef940c196",
+        "folder": "書籤列/React",
+        "date_added": "13293689323000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Jetpack Compose Android App with MVVM Architecture and Retrofit - API Integration | by Dheeraj Singh Bhadoria | Medium",
+        "url": "https://medium.com/@dheerubhadoria/jetpack-compose-android-app-with-mvvm-architecture-and-retrofit-api-integration-4eb61ca6fbf2",
+        "folder": "書籤列/kotlin",
+        "date_added": "13345276011431006",
+        "source": "chrome"
+      },
+      {
+        "title": "React-router-dom | 原理解析. 解析 5.2 版本原始碼 | by Airwaves | 手寫筆記 | Medium",
+        "url": "https://medium.com/%E6%89%8B%E5%AF%AB%E7%AD%86%E8%A8%98/a-little-bit-of-react-router-dom-e5b809fcb127",
+        "folder": "書籤列/React",
+        "date_added": "13259230647000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Retrofit 2 起手式. 先前只有了解些 Rx 及 Retrofit 2… | by 陳建維 Ben | 工程師求生指南(Sofware Engineer Survival Guide) | Medium",
+        "url": "https://medium.com/%E5%B7%A5%E7%A8%8B%E5%B8%AB%E6%B1%82%E7%94%9F%E6%8C%87%E5%8D%97-sofware-engineer-survival-guide/retrofit-2-%E8%B5%B7%E6%89%8B%E5%BC%8F-212644f33a9a",
+        "folder": "書籤列/kotlin",
+        "date_added": "13346758640119403",
+        "source": "chrome"
+      },
+      {
+        "title": "Retrofit2 Tutorial with Pagination & Clean +MVVM architecture | by Bharath prakash | Nov, 2023 | Medium",
+        "url": "https://medium.com/@prakash.ayinala7/retrofit2-tutorial-with-pagination-clean-mvvm-architecture-d0ab01c49d1d",
+        "folder": "書籤列/kotlin",
+        "date_added": "13346750167638871",
+        "source": "chrome"
+      },
+      {
+        "title": "Side Menu in IOS SwiftUI. Hi Guys, in this blog you will learn… | by M.Abbas | Geek Culture | Medium",
+        "url": "https://medium.com/geekculture/side-menu-in-ios-swiftui-9fe1b69fc487",
+        "folder": "書籤列/Swift",
+        "date_added": "13339156051274915",
+        "source": "chrome"
+      },
+      {
+        "title": "Swift — 管理 Xcode 專案目錄結構. 讓我們看看如何管理我們 Xcode 專案目錄中的結構吧 | by Jeremy Xue | Jeremy Xue ‘s Blog | Medium",
+        "url": "https://medium.com/jeremy-xue-s-blog/swift-%E7%AE%A1%E7%90%86-xcode-%E5%B0%88%E6%A1%88%E7%9B%AE%E9%8C%84%E7%B5%90%E6%A7%8B-d60cc9a23b99",
+        "folder": "書籤列/Swift",
+        "date_added": "13337230789924118",
+        "source": "chrome"
+      },
+      {
+        "title": "Swift: How to create a HTTP POST request with “application/x-www-form-urlencoded” body. | by Sergio R | Medium",
+        "url": "https://medium.com/@serge.works.io/swift-how-to-create-a-http-post-request-with-application-x-www-form-urlencoded-body-bfd9cd26d6d5",
+        "folder": "書籤列/Swift",
+        "date_added": "13339069625495655",
+        "source": "chrome"
+      },
+      {
+        "title": "SwiftUI 5.5 API Data to List View - Paul Allies - Medium",
+        "url": "https://paulallies.medium.com/swiftui-5-5-api-data-to-list-view-776c69a456d3",
+        "folder": "書籤列/Swift",
+        "date_added": "13337230017441875",
+        "source": "chrome"
+      },
+      {
+        "title": "SwiftUI for React Native Developers | by Rohan Panchal | Medium",
+        "url": "https://medium.com/@rorogadget/swiftui-for-react-native-developers-2072a21c22fb",
+        "folder": "其他書籤",
+        "date_added": "13339648459554821",
+        "source": "chrome"
+      },
+      {
+        "title": "SwiftUI 小整理. UIKit | by Sunny Cheng | Medium",
+        "url": "https://misomiso43.medium.com/swiftui-%E5%B0%8F%E6%95%B4%E7%90%86-98528eb1b1a2",
+        "folder": "書籤列/Swift",
+        "date_added": "13340711343426773",
+        "source": "chrome"
+      },
+      {
+        "title": "SwiftUI 設定 UI 元件樣式(加入 modifier)的各種方法 | by 彼得潘的 iOS App Neverland | 彼得潘的 Swift iOS App 開發問題解答集 | Medium",
+        "url": "https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/swiftui-%E8%A8%AD%E8%A8%88-ui-%E5%85%83%E4%BB%B6%E6%A8%A3%E5%BC%8F%E7%9A%84%E5%90%84%E7%A8%AE%E6%96%B9%E6%B3%95-5350da28bc89",
+        "folder": "書籤列/Swift",
+        "date_added": "13337234923192319",
+        "source": "chrome"
+      },
+      {
+        "title": "SwiftUI 輸入文字的 TextField，SecureField，TextEditor & 猜數字 App | by 彼得潘的 iOS App Neverland | 彼得潘的 Swift iOS App 開發問題解答集 | Medium",
+        "url": "https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/swiftui-%E8%BC%B8%E5%85%A5%E6%96%87%E5%AD%97%E7%9A%84-textfield-%E7%8C%9C%E6%95%B8%E5%AD%97-app-%E7%AF%84%E4%BE%8B-848f2aa716",
+        "folder": "書籤列/Swift",
+        "date_added": "13337766571870873",
+        "source": "chrome"
+      },
+      {
+        "title": "Universal Links 新鮮事. iOS 13, iOS 14 Universal Links… | by ZhgChgLi | ZRealm Dev. | Medium",
+        "url": "https://medium.com/zrealm-ios-dev/universal-links-%E6%96%B0%E9%AE%AE%E4%BA%8B-12c5026da33d",
+        "folder": "書籤列/React",
+        "date_added": "13293704898000000",
+        "source": "chrome"
+      },
+      {
+        "title": "使用 array 的 index 當 ForEach id 的特別問題 | by 彼得潘的 iOS App Neverland | 彼得潘的 Swift iOS App 開發問題解答集 | Medium",
+        "url": "https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/%E4%BD%BF%E7%94%A8-array-%E7%9A%84-index-%E7%95%B6-foreach-id-%E7%9A%84%E7%89%B9%E5%88%A5%E5%95%8F%E9%A1%8C-dddb01400d1c",
+        "folder": "書籤列/Swift",
+        "date_added": "13339564831144467",
+        "source": "chrome"
+      },
+      {
+        "title": "使用 URLSession 串接 REST API，練習 http get，post，delete，put，以 Reqres API 為例 | by 彼得潘的 iOS App Neverland | 彼得潘的 Swift iOS App 開發問題解答集 | Medium",
+        "url": "https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/%E4%BD%BF%E7%94%A8-urlsession-%E4%B8%B2%E6%8E%A5-http-get-post-delete-put-api-%E4%BB%A5-reqres-api-%E7%82%BA%E4%BE%8B-f977ec876c33",
+        "folder": "書籤列/Swift",
+        "date_added": "13339131886980141",
+        "source": "chrome"
+      },
+      {
+        "title": "利用 CodingKey 客製 JSON 對應的 property | by 彼得潘的 iOS App Neverland | 彼得潘的 Swift iOS App 開發問題解答集 | Medium",
+        "url": "https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/%E5%88%A9%E7%94%A8-enum-codingkeys-%E5%AE%A2%E8%A3%BD-json-%E5%B0%8D%E6%87%89%E7%9A%84-property-1b27f29c0c32",
+        "folder": "書籤列/Swift",
+        "date_added": "13340092637929193",
+        "source": "chrome"
+      },
+      {
+        "title": "利用 JSONDecoder 把 JSON 轉換成自訂型別的資料. 抓取網路上的 JSON… | by 彼得潘的 iOS App Neverland | 彼得潘的 Swift iOS App 開發問題解答集 | Medium",
+        "url": "https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/%E5%88%A9%E7%94%A8-swift-4-%E7%9A%84-jsondecoder-%E5%92%8C-codable-%E8%A7%A3%E6%9E%90-json-%E5%92%8C%E7%94%9F%E6%88%90%E8%87%AA%E8%A8%82%E5%9E%8B%E5%88%A5%E8%B3%87%E6%96%99-ee793622629e",
+        "folder": "書籤列/Swift",
+        "date_added": "13339049856243407",
+        "source": "chrome"
+      },
+      {
+        "title": "沒有 s 的 http 還可以連線嗎 ? 設定 ATS. 為了讓使用者享用更安全的 App，apple 現在強制上架的 App… | by 彼得潘的 iOS App Neverland | 彼得潘的 Swift iOS App 開發問題解答集 | Medium",
+        "url": "https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/%E6%B2%92%E6%9C%89-s-%E7%9A%84-http-%E9%82%84%E5%8F%AF%E4%BB%A5%E9%80%A3%E7%B7%9A%E5%97%8E-29235037e161",
+        "folder": "書籤列/Swift",
+        "date_added": "13340269006076356",
+        "source": "chrome"
+      },
+      {
+        "title": "用 JSON Server 模擬 RESTful API. 當我們前端在開發時，會碰到需要透過 API… | by Debby Ji | Medium",
+        "url": "https://medium.com/@debbyji/%E7%94%A8-json-server-%E6%A8%A1%E6%93%AC-restful-api-f07abda3927c",
+        "folder": "書籤列/React",
+        "date_added": "13296796485000000",
+        "source": "chrome"
+      },
+      {
+        "title": "用RxSwift+MVVM來實作瀏覽github user repositories的App吧！ | by Sean | 藍光宅男 | Medium",
+        "url": "https://medium.com/%E8%97%8D%E5%85%89%E5%AE%85%E7%94%B7/%E7%94%A8rxswift-mvvm%E4%BE%86%E5%AF%A6%E4%BD%9C%E7%80%8F%E8%A6%BDgithub-user-repositories%E7%9A%84app%E5%90%A7-7a8063151945",
+        "folder": "書籤列/Swift",
+        "date_added": "13337243674831736",
+        "source": "chrome"
+      },
+      {
+        "title": "矽谷生活第三年 — 實現理想生活模式. “矽谷是文化的沙漠，若沒工作這裡就是戰場; 若沒女友那可能一輩子單身… | by Hannah Lin | Hannah Lin | Medium",
+        "url": "https://medium.com/hannah-lin/%E7%9F%BD%E8%B0%B7%E7%94%9F%E6%B4%BB%E7%AC%AC%E4%B8%89%E5%B9%B4-%E5%AF%A6%E7%8F%BE%E7%90%86%E6%83%B3%E7%94%9F%E6%B4%BB%E6%A8%A1%E5%BC%8F-7909dc5c8411",
+        "folder": "書籤列/nextJs",
+        "date_added": "13301040331926921",
+        "source": "chrome"
+      },
+      {
+        "title": "筆記: Coroutine簡介(三) viewModelScope、liveCycleScope與livedata builder | by Lin Li | Medium",
+        "url": "https://medium.com/@alice.margatroid.love/%E7%AD%86%E8%A8%98-coroutine%E7%B0%A1%E4%BB%8B-%E4%B8%89-viewmodelscope-livecyclescope%E8%88%87livedata-builder-e8be67aade8",
+        "folder": "書籤列/kotlin",
+        "date_added": "13347012577001538",
+        "source": "chrome"
+      },
+      {
+        "title": "透過Postman 發送App通知（FCM）. 因為公司需要透過Firebase api… | by Eason | Medium",
+        "url": "https://medium.com/@eason2019tw/%E9%80%8F%E9%81%8Epostman-%E5%82%B3%E9%80%81%E9%80%9A%E7%9F%A5-fcm-bd4ed84f4a70",
+        "folder": "書籤列/React",
+        "date_added": "13291268592000000",
+        "source": "chrome"
+      }
+    ],
+    "未分類": [
+      {
+        "title": "192.168.6.10/libtools/",
+        "url": "http://192.168.6.10/libtools/",
+        "folder": "書籤列",
+        "date_added": "13373952757103853",
+        "source": "chrome"
+      },
+      {
+        "title": "Domain Name - 華夏科技大學圖書館",
+        "url": "http://mitopac.lib.hwh.edu.tw/mitopac/",
+        "folder": "書籤列/已匯入/H-華夏科技大學",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Evernote",
+        "url": "https://www.evernote.com/client/web?login=true",
+        "folder": "書籤列",
+        "date_added": "13351326321302383",
+        "source": "chrome"
+      },
+      {
+        "title": "Login",
+        "url": "http://192.168.6.10/InfoSys/Default.aspx",
+        "folder": "書籤列",
+        "date_added": "13372939477820695",
+        "source": "chrome"
+      },
+      {
+        "title": "Login_242",
+        "url": "http://211.72.117.242/infosys/",
+        "folder": "書籤列",
+        "date_added": "13368011086456521",
+        "source": "chrome"
+      },
+      {
+        "title": "M7",
+        "url": "chrome://bookmarks/",
+        "folder": "書籤列",
+        "date_added": "13211017880000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7",
+        "url": "http://210.60.194.41/mitopac/",
+        "folder": "書籤列/已匯入/Z-振聲高中",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 中港高中圖書館",
+        "url": "http://opac.cgsh.tc.edu.tw/mitopac/",
+        "folder": "書籤列/已匯入/Z-中港高中",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 亞東技術學院圖書館",
+        "url": "http://120.96.33.49/mitopac/Default.aspx",
+        "folder": "書籤列/已匯入/Y-亞東技術學院",
+        "date_added": "13179199788000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 仁愛高農圖書館",
+        "url": "http://163.22.160.58/mitopac/",
+        "folder": "書籤列/已匯入/R-仁愛高農",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 修平科技大學圖書館",
+        "url": "http://163.17.79.108/mitopac/",
+        "folder": "書籤列/已匯入/X-修平科大",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 光華高級中學圖書館",
+        "url": "http://lib.khgs.tn.edu.tw/mitopac/",
+        "folder": "書籤列/已匯入/G-光華高中",
+        "date_added": "13163829615000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 六和高中圖書館 館藏目錄查詢系統",
+        "url": "http://210.59.42.25/webopac/",
+        "folder": "書籤列/已匯入/L-六和高中",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 南山中學圖書館",
+        "url": "http://libraryopac.nssh.ntpc.edu.tw/mitopac/",
+        "folder": "書籤列/已匯入/N-南山高中",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 台灣首府大學圖書館",
+        "url": "http://120.114.1.19/mitopac/",
+        "folder": "書籤列/已匯入/T-台灣首府大學",
+        "date_added": "13169030619000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 君毅高級中學圖書館 館藏目錄查詢系統",
+        "url": "http://163.19.239.4/webopac/",
+        "folder": "書籤列/已匯入/J-君毅高中",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立中科實驗高級中學圖書館",
+        "url": "http://lib.nehs.tc.edu.tw/mitopac/",
+        "folder": "書籤列/已匯入/Z-中科實中",
+        "date_added": "13185426894000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立中興大學附屬高級中學圖書館",
+        "url": "https://lib.dali.tc.edu.tw/mitopac/",
+        "folder": "書籤列/已匯入/X-興大附中",
+        "date_added": "13163829612000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立中興高中圖書館",
+        "url": "http://163.22.41.4/mitopac/",
+        "folder": "書籤列/已匯入/Z-中興高中",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立北斗家商圖書館 -",
+        "url": "http://163.23.171.95/mitopac/",
+        "folder": "書籤列/已匯入/B-北斗家商",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立北港高級中學圖書館",
+        "url": "http://163.27.126.10/mitopac/",
+        "folder": "書籤列/已匯入/B-北港高中",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立北港高級農工職業學校圖書館",
+        "url": "http://163.27.127.5/mitopac/",
+        "folder": "書籤列/已匯入/B-北港農工",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立北門農工圖書館",
+        "url": "http://203.71.247.121/mitopac/",
+        "folder": "書籤列/已匯入/B-北門農工",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立北門高中圖書館",
+        "url": "http://210.60.224.4/mitopac/",
+        "folder": "書籤列/已匯入/B-北門高中",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立南投高級中學圖書館",
+        "url": "http://163.22.40.34/mitopac/",
+        "folder": "書籤列/已匯入/N-南投高中",
+        "date_added": "13168592548000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立南投高級商業職業學校圖書館",
+        "url": "http://163.22.165.230/mitopac/",
+        "folder": "書籤列/已匯入/N-南投高商",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立員林家商圖書館",
+        "url": "http://163.23.169.14/mitopac/",
+        "folder": "書籤列/已匯入/Y-員林家商",
+        "date_added": "13163829612000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立員林農工圖書館",
+        "url": "http://163.23.165.249/mitopac/",
+        "folder": "書籤列/已匯入/Y-員林農工",
+        "date_added": "13163829612000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立基隆女子高級中學圖書館",
+        "url": "http://210.71.56.81/mitopac/",
+        "folder": "書籤列/已匯入/J-基隆女中",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立大湖農工圖書館",
+        "url": "http://163.19.235.179/mitopac/",
+        "folder": "書籤列/已匯入/D-大湖農工",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立屏東高級中學圖書館",
+        "url": "http://163.24.151.7/mitopac/",
+        "folder": "書籤列/已匯入/P-屏東高中",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立岡山農工圖書館",
+        "url": "http://210.60.233.17/mitopac/",
+        "folder": "書籤列/已匯入/G-岡山農工",
+        "date_added": "13163829615000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立後壁高級中學圖書館",
+        "url": "http://libm7.hpsh.tn.edu.tw/mitopac/",
+        "folder": "書籤列/已匯入/H-後壁高中",
+        "date_added": "13168080216000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立斗六高中圖書館",
+        "url": "http://163.27.125.6/mitopac/",
+        "folder": "書籤列/已匯入/D-斗六高中",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立斗六高級家事商業職業學校圖書館",
+        "url": "http://163.27.124.40/mitopac/",
+        "folder": "書籤列/已匯入/D-斗六家商",
+        "date_added": "13166680059000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立新化高工圖書館",
+        "url": "http://210.60.50.80/mitopac/",
+        "folder": "書籤列/已匯入/X-新化高工",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立新化高工圖書館 館藏目錄查詢系統",
+        "url": "http://210.60.50.80/webopac/",
+        "folder": "書籤列/已匯入/X-新化高工",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立新化高級中學中正圖書館",
+        "url": "http://210.60.246.191/mitopac/",
+        "folder": "書籤列/已匯入/X-新化高中",
+        "date_added": "13168080698000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立新營高工圖書館",
+        "url": "http://203.68.74.194/mitopac/",
+        "folder": "書籤列/已匯入/X-新營高工",
+        "date_added": "13166607015000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立新竹高中圖書館",
+        "url": "http://140.126.198.160/mitopac/",
+        "folder": "書籤列/已匯入/X-新竹高中",
+        "date_added": "13163829612000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立新竹高商圖書館",
+        "url": "http://140.126.177.6/mitopac/",
+        "folder": "書籤列/已匯入/X-新竹高商",
+        "date_added": "13163829612000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立暨南國際大學附屬高級中學圖書館",
+        "url": "http://163.22.162.182/mitopac/Default.aspx",
+        "folder": "書籤列/已匯入/J-暨大附中",
+        "date_added": "13182404849000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立曾文農工圖書館",
+        "url": "http://210.59.17.96/mitopac/",
+        "folder": "書籤列/已匯入/Z-曾文農工",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立永靖高工圖書館",
+        "url": "http://163.23.155.12/mitopac/",
+        "folder": "書籤列/已匯入/Y-永靖高工",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立科園實中圖書館",
+        "url": "http://140.126.246.137/mitopac/",
+        "folder": "書籤列/已匯入/K-科園實中",
+        "date_added": "13164346505000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立科學工藝博物館",
+        "url": "http://203.71.9.22/mitopac/",
+        "folder": "書籤列/已匯入/K-科工館",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立竹南高中圖書館",
+        "url": "http://163.19.231.21/mitopac/",
+        "folder": "書籤列/已匯入/Z-竹南高中",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立竹山高中圖書館",
+        "url": "http://163.22.153.33/mitopac/",
+        "folder": "書籤列/已匯入/Z-竹山高中",
+        "date_added": "13189240331000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立臺中文華高級中學圖書館",
+        "url": "http://203.68.192.34/mitopac/",
+        "folder": "書籤列/已匯入/W-文華高中",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立臺中第二高級中學圖書館",
+        "url": "http://203.71.212.15/mitopac/",
+        "folder": "書籤列/已匯入/T-台中二中",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立臺南二中圖書館",
+        "url": "http://210.60.36.204/mitopac/",
+        "folder": "書籤列/已匯入/T-台南二中",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立臺南大學附屬高級中學圖書館",
+        "url": "http://210.59.18.145/mitopac/Default.aspx",
+        "folder": "書籤列/已匯入/N-南大附中",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立臺南高工圖書館",
+        "url": "http://library.ptivs.tn.edu.tw/mitopac/",
+        "folder": "書籤列/已匯入/T-台南高工",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立臺東高級中學圖書館",
+        "url": "http://203.72.66.69/mitopac/",
+        "folder": "書籤列/已匯入/T-台東高中",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立臺東高級商業職業學校圖書館",
+        "url": "http://203.71.5.18/MITOPAC/",
+        "folder": "書籤列/已匯入/T-台東高商",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立臺灣師範大學附屬高級中學圖書館",
+        "url": "http://140.131.149.105/mitopac/",
+        "folder": "書籤列/已匯入/S-師大附中",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立興大附農圖書館",
+        "url": "http://192.192.136.8/mitopac/",
+        "folder": "書籤列/已匯入/X-興大附農",
+        "date_added": "13163829612000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立花蓮高商圖書館",
+        "url": "http://203.68.155.60/mitopac/Default.aspx",
+        "folder": "書籤列/已匯入/H-花蓮高商",
+        "date_added": "13177558895000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立花蓮高級農業職業學校圖書館",
+        "url": "http://210.243.52.150/mitopac/",
+        "folder": "書籤列/已匯入/H-花蓮農工",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立苑裡高級中學圖書館",
+        "url": "http://lis.ylsh.mlc.edu.tw/mitopac",
+        "folder": "書籤列/已匯入/Y-苑裡高中",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立苗栗農工圖書館",
+        "url": "http://163.19.234.180/mitopac/",
+        "folder": "書籤列/已匯入/M-苗栗農工",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立苗栗高中圖書館",
+        "url": "http://203.72.251.23/mitopac/",
+        "folder": "書籤列/已匯入/M-苗栗高中",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立苗栗高商圖書館",
+        "url": "http://203.71.199.183/mitopac/Default.aspx",
+        "folder": "書籤列/已匯入/M-苗栗高商",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立豐原高商圖書館",
+        "url": "http://203.72.29.17/mitopac/",
+        "folder": "書籤列/已匯入/F-豐原高商",
+        "date_added": "13163829615000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立關山工商圖書館",
+        "url": "http://203.71.145.35/mitopac/Default.aspx",
+        "folder": "書籤列/已匯入/G-關山工商",
+        "date_added": "13163829615000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立霧峰農工圖書館",
+        "url": "http://210.60.229.225/mitopac/",
+        "folder": "書籤列/已匯入/W-霧峰農工",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立鳳新高級中學圖書館",
+        "url": "http://210.60.161.40/mitopac/Default.aspx",
+        "folder": "書籤列/已匯入/F-鳳新高中",
+        "date_added": "13165298587000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國立龍潭高級中學圖書館",
+        "url": "http://210.60.236.24/mitopac/",
+        "folder": "書籤列/已匯入/L-龍潭高中",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 國防醫學院圖書館",
+        "url": "http://192.192.91.26/mitopac/",
+        "folder": "書籤列/已匯入/G-國防醫學院",
+        "date_added": "13163829615000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 實踐大學圖書館 館藏目錄查詢系統",
+        "url": "http://webopac.lib.usc.edu.tw/webopac/",
+        "folder": "書籤列/已匯入/S-實踐大學",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 屏基醫療財團法人屏東基督教醫院醫學圖書館",
+        "url": "http://lib.ptch.org.tw/mitopac/",
+        "folder": "書籤列/已匯入/P-屏東基督教醫院",
+        "date_added": "13199850914000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 屏東縣東港高級中學圖書館",
+        "url": "http://163.24.47.94/mitopac/",
+        "folder": "書籤列/已匯入/D-東港高中",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 弘光科技大學圖書館",
+        "url": "http://192.192.241.101/mitopac/",
+        "folder": "書籤列/已匯入/H-弘光科大",
+        "date_added": "13163829615000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 弘文高級中學圖書館",
+        "url": "http://163.17.183.20/mitopac/",
+        "folder": "書籤列/已匯入/H-弘文高中",
+        "date_added": "13163830279000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 彰化縣私立精誠高級中學圖書館",
+        "url": "http://library.cchs.chc.edu.tw/mitopac/",
+        "folder": "書籤列/已匯入/J-精誠高中",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 彰化縣立二林高中圖書館",
+        "url": "http://163.23.87.6/mitopac/",
+        "folder": "書籤列/已匯入/E-二林高中",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 彰化縣立和美高級中學圖書館",
+        "url": "http://lib.hmjh.chc.edu.tw/mitopac/",
+        "folder": "書籤列/已匯入/H-和美高中",
+        "date_added": "13163829615000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 彰化縣議會",
+        "url": "http://210.241.56.8/mitopac/",
+        "folder": "書籤列/已匯入/Z - 彰化縣議會",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 文興中學教學資源中心",
+        "url": "http://163.23.130.52/mitopac/",
+        "folder": "書籤列/已匯入/W-文興高中",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 新北市立北大高級中學圖書館",
+        "url": "http://163.20.189.241/mitopac/",
+        "folder": "書籤列/已匯入/B-北大高中",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 新北市立樹林高級中學圖書館",
+        "url": "http://163.20.149.11/mitopac/",
+        "folder": "書籤列/已匯入/S-樹林高中圖書館",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 新屋高中圖書館",
+        "url": "http://163.30.202.137/mitopac/",
+        "folder": "書籤列/已匯入/X-新屋高中",
+        "date_added": "13209795249000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 新竹市立建功高級中學圖書館",
+        "url": "http://163.19.116.3/mitopac/",
+        "folder": "書籤列/已匯入/J-建功高中",
+        "date_added": "13180589226000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 東海大學附中圖書館",
+        "url": "http://140.128.107.209/mitopac/Default.aspx",
+        "folder": "書籤列/已匯入/D-東海大學附中",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 桃園市桃園區青溪國民小學圖書館",
+        "url": "http://163.30.49.7/mitopac/",
+        "folder": "書籤列/已匯入/Q-青溪國小",
+        "date_added": "13189744420000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 桃園市立大園國際高級中學",
+        "url": "http://163.30.80.7/mitopac/",
+        "folder": "書籤列/已匯入/D-大園高中",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 桃園市立大溪高級中學圖書館",
+        "url": "http://163.30.105.25/mitopac/",
+        "folder": "書籤列/已匯入/D-大溪高中",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 桃園市立平鎮高中圖書館",
+        "url": "http://163.30.123.3/mitopac/",
+        "folder": "書籤列/已匯入/P-平鎮高中",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 桃園市立永豐高級中學圖書館",
+        "url": "http://163.30.28.148/mitopac/",
+        "folder": "書籤列/已匯入/Y-永豐高中",
+        "date_added": "13187930404000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 楊梅高中圖書館",
+        "url": "http://www3.ymhs.tyc.edu.tw/mitopac/",
+        "folder": "書籤列/已匯入/Y-楊梅高中",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 樹德科技大學圖書館",
+        "url": "http://172.30.3.160/mitopac/",
+        "folder": "書籤列/已匯入/S-樹德科大",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 正心高級中學圖書館",
+        "url": "http://lib.shsh.ylc.edu.tw/mitopac/",
+        "folder": "書籤列/已匯入/Z-正心高中",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 永仁高中圖書館",
+        "url": "http://120.116.38.9/mitopac/",
+        "folder": "書籤列/已匯入/Y-永仁高中",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 永年高中圖書館",
+        "url": "http://163.27.232.71/mitopac/",
+        "folder": "書籤列/已匯入/Y-永年高中",
+        "date_added": "13179808041000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 玄奘大學圖書館",
+        "url": "http://210.60.62.188/mitopac/",
+        "folder": "書籤列/已匯入/X-玄奘大學",
+        "date_added": "13163829612000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 環球科技大學",
+        "url": "http://140.130.161.201/mitopac",
+        "folder": "書籤列/已匯入/H-環球科大",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 真理大學圖書館",
+        "url": "https://lib.au.edu.tw/mitopac/",
+        "folder": "書籤列/已匯入/Z-真理大學",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 福嚴佛學院圖書館",
+        "url": "http://211.75.120.68/mitopac/",
+        "folder": "書籤列/已匯入/F-福嚴、慧日講堂",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 稻江科技暨管理學院 - 圖書館",
+        "url": "http://140.130.213.204/mitopac/",
+        "folder": "書籤列/已匯入/D-稻江科技管理學院",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 立人高級中學圖書館",
+        "url": "http://210.60.247.7/mitopac/",
+        "folder": "書籤列/已匯入/L-立人高中",
+        "date_added": "13190344921000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 維多利亞實驗中學",
+        "url": "http://210.70.14.199/mitopac/",
+        "folder": "書籤列/已匯入/W-維多利亞中學",
+        "date_added": "13168319456000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 聖保祿醫院圖書館",
+        "url": "http://60.251.237.103/mitopac/",
+        "folder": "書籤列/已匯入/S-聖保祿醫院",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 聖功女中圖書館",
+        "url": "http://203.72.42.6/mitopac/",
+        "folder": "書籤列/已匯入/S-聖功女中",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 育德工家圖書館",
+        "url": "http://library.ytvs.tn.edu.tw/mitopac/",
+        "folder": "書籤列/已匯入/Y-育德工家",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 育英醫護管理專科學校圖書館",
+        "url": "http://163.15.186.41/mitopac",
+        "folder": "書籤列/已匯入/Y-育英醫專",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 臺中市立忠明高中圖書館",
+        "url": "http://140.128.59.5/mitopac/",
+        "folder": "書籤列/已匯入/Z-忠明高中",
+        "date_added": "13193131884000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 臺中市立惠文高級中學圖書館",
+        "url": "http://203.64.159.104/mitopac/",
+        "folder": "書籤列/已匯入/H-惠文高中",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 臺中市立新社高級中學圖書館",
+        "url": "http://163.17.182.34/mitopac/",
+        "folder": "書籤列/已匯入/X-新社高中",
+        "date_added": "13163829612000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 臺中市立臺中家事商業高級中等學校圖書館",
+        "url": "http://210.70.125.105/mitopac/",
+        "folder": "書籤列/已匯入/T-台中家商",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 臺中市立臺中工業高級中等學校圖書館",
+        "url": "http://lib.tcivs.tc.edu.tw/mitopac/",
+        "folder": "書籤列/已匯入/T-台中高工",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 臺中市立長億高中圖書館",
+        "url": "http://163.17.37.17/mitopac/",
+        "folder": "書籤列/已匯入/Z-長億高中",
+        "date_added": "13165916923000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 臺北市第一女子高級中學圖書館",
+        "url": "http://m7.fg.tp.edu.tw/mitopac/",
+        "folder": "書籤列/已匯入/B-北一女",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 苗栗縣立大同高級中學圖書館",
+        "url": "http://120.104.245.2/mitopac/",
+        "folder": "書籤列/已匯入/D-大同高中",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 華夏科技大學圖書館",
+        "url": "http://140.131.31.243/mitopac/",
+        "folder": "書籤列/已匯入/H-華夏科技大學",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 華梵大學測試用機器",
+        "url": "http://210.59.113.13/mitopac/",
+        "folder": "書籤列/已匯入/H-華梵大學",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 衛道高級中學圖書館",
+        "url": "http://210.60.208.82/mitopac/Default.aspx",
+        "folder": "書籤列/已匯入/W-衛道中學",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 道生神學院圖書館",
+        "url": "http://1.34.51.35/mitopac/",
+        "folder": "書籤列/已匯入/D-道生神學院",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 門諾會醫院艾可諾圖書館",
+        "url": "http://lib.mch.org.tw/mitopac/",
+        "folder": "書籤列/已匯入/M-門諾醫院圖書館",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 門諾會醫院艾可諾圖書館 - IP",
+        "url": "http://60.248.23.141/mitopac/",
+        "folder": "書籤列/已匯入/M-門諾醫院圖書館",
+        "date_added": "13190375249000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 青年高中圖書館",
+        "url": "http://163.17.168.33/mitopac/",
+        "folder": "書籤列/已匯入/Q-青年高中",
+        "date_added": "13189156093000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 馬偕紀念醫院圖書館",
+        "url": "http://203.69.180.181/mitopac/Indexs.aspx",
+        "folder": "書籤列/已匯入/M-馬偕醫院",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 高雄市三信家商圖書館",
+        "url": "http://163.32.85.249/mitopac/",
+        "folder": "書籤列/已匯入/S-三信家商",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7 - 麥寮高中圖書館",
+        "url": "http://163.27.171.15/mitopac/",
+        "folder": "書籤列/已匯入/M-麥寮高中",
+        "date_added": "13181707861000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7- 國立光復高級商工職業學校圖書館",
+        "url": "http://61.221.41.194/mitopac/",
+        "folder": "書籤列/已匯入/G-光復高工",
+        "date_added": "13166693720000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7-國立崇實高工圖書館",
+        "url": "http://163.23.168.50/mitopac/default.aspx",
+        "folder": "書籤列/已匯入/C-崇實高工",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7-國立秀水高工圖書館",
+        "url": "http://163.23.160.232/mitopac/",
+        "folder": "書籤列/已匯入/X-秀水高工",
+        "date_added": "13163829612000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7-建臺高級中學圖書館",
+        "url": "http://203.72.209.48/mitopac/",
+        "folder": "書籤列/已匯入/J-建臺高中",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7-葳格高級中學圖書館",
+        "url": "http://140.128.233.133/mitopac/",
+        "folder": "書籤列/已匯入/W-葳格高中",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7-金陵女中圖書館",
+        "url": "http://203.71.72.5/mitopac/",
+        "folder": "書籤列/已匯入/J-金陵女中",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7_台中女中圖書館",
+        "url": "http://lib.tcgs.tc.edu.tw/mitopac/",
+        "folder": "書籤列/已匯入/T-台中女中",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7_和信治癌中心醫院圖書室",
+        "url": "http://61.219.75.77/mitopac/Default.aspx",
+        "folder": "書籤列/已匯入/H-和信治癌中心醫院",
+        "date_added": "13163829615000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7後端 - 君毅高級中學圖書館",
+        "url": "http://163.19.239.4/Mitopac/",
+        "folder": "書籤列/已匯入/J-君毅高中",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7後端 - 和春技術學院 圖書館",
+        "url": "http://163.15.202.183/mitopac/",
+        "folder": "書籤列/已匯入/H-和春技術學院",
+        "date_added": "13163829615000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7後端 - 國立聯合大學國鼎圖書館(原203.64.181.38)",
+        "url": "http://210.60.171.8/mitopac/Default.aspx",
+        "folder": "書籤列/已匯入/L-聯合大學",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M7測試機 - 樹德科技大學 ",
+        "url": "http://120.119.30.52/mitopac/",
+        "folder": "書籤列/已匯入/S-樹德科大",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "M8寶慶大學",
+        "url": "http://220.130.59.161/M8/",
+        "folder": "書籤列",
+        "date_added": "13304673821629795",
+        "source": "chrome"
+      },
+      {
+        "title": "OLD - 借閱資料查詢(目前借閱)",
+        "url": "http://210.240.228.3/blhistory.htm",
+        "folder": "書籤列/已匯入/H-弘光科大",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "OLD _ 各種館藏圖書資料清單",
+        "url": "http://210.240.228.3/branchlsh.aspx",
+        "folder": "書籤列/已匯入/H-弘光科大",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "OLD-借書歷史",
+        "url": "http://210.240.228.3/brhistory.htm",
+        "folder": "書籤列/已匯入/H-弘光科大",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "OLD_目前預約超過三冊圖書資料清單",
+        "url": "http://210.240.228.3/resls3.aspx",
+        "folder": "書籤列/已匯入/H-弘光科大",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "OLD_館藏查詢",
+        "url": "http://210.240.228.3/sys5.htm",
+        "folder": "書籤列/已匯入/H-弘光科大",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "OPAC",
+        "url": "http://120.96.33.48/webopac",
+        "folder": "書籤列/已匯入/Y-亞東技術學院",
+        "date_added": "13179199803000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Opac",
+        "url": "http://203.72.181.47/webopac",
+        "folder": "書籤列/已匯入/Z-中壢高中",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Opac - 和春技術學院圖書館 館藏目錄查詢系統",
+        "url": "http://163.15.202.116/webopac/Default.aspx",
+        "folder": "書籤列/已匯入/H-和春技術學院",
+        "date_added": "13163829615000000",
+        "source": "chrome"
+      },
+      {
+        "title": "OPAC - 國立曾文農工圖書館 書刊目錄查詢網",
+        "url": "http://210.59.17.96/webopac/",
+        "folder": "書籤列/已匯入/Z-曾文農工",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Opac - 國立桃園農工圖書館 館藏目錄查詢系統",
+        "url": "http://203.68.250.11/webopac/",
+        "folder": "書籤列/已匯入/T-桃園農工",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "OPAC - 國立興大附農圖書館 書刊目錄查詢網",
+        "url": "http://192.192.136.8/webopac/",
+        "folder": "書籤列/已匯入/X-興大附農",
+        "date_added": "13163829612000000",
+        "source": "chrome"
+      },
+      {
+        "title": "OPAC - 樹德科技大學圖書館 - 書刊目錄查詢網",
+        "url": "https://webpac.stu.edu.tw/webopac/",
+        "folder": "書籤列/已匯入/S-樹德科大",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "opac - 聯合大學 館藏目錄查詢系統 (原203.64.181.37)",
+        "url": "http://210.60.171.7/webopac/",
+        "folder": "書籤列/已匯入/L-聯合大學",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "OPAC - 育英醫護管理專科學校圖書館",
+        "url": "http://vpn.yuhing.edu.tw/webopac/",
+        "folder": "書籤列/已匯入/Y-育英醫專",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "OPAC_台中女中圖書館 書刊目錄查詢網",
+        "url": "http://lib.tcgs.tc.edu.tw/webopac/",
+        "folder": "書籤列/已匯入/T-台中女中",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "post login - My Workspace",
+        "url": "https://web.postman.co/workspace/My-Workspace~c566d8a7-b90a-43b4-807b-21cf2caa5e1a/request/19121761-dd450990-f461-45f8-bcd2-3bcfc7cf615a?tab=body",
+        "folder": "書籤列",
+        "date_added": "13353067105750696",
+        "source": "chrome"
+      },
+      {
+        "title": "Register",
+        "url": "http://192.168.6.10/register/",
+        "folder": "書籤列",
+        "date_added": "13204875740000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Spydus C6 館藏查詢",
+        "url": "http://lib.chu.edu.tw/spydus/wsearch1.htm",
+        "folder": "書籤列/已匯入/Z-中華大學",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Stable Diffusion 在線",
+        "url": "https://stablediffusionweb.com/app/image-generator",
+        "folder": "書籤列",
+        "date_added": "13378549926889536",
+        "source": "chrome"
+      },
+      {
+        "title": "suno",
+        "url": "https://blog.yourmusic.fun/tag/sunoai-jiaocheng",
+        "folder": "書籤列",
+        "date_added": "13374293394000449",
+        "source": "chrome"
+      },
+      {
+        "title": "Suno",
+        "url": "https://suno.com/create",
+        "folder": "書籤列",
+        "date_added": "13374293419330633",
+        "source": "chrome"
+      },
+      {
+        "title": "weblink - 和春技術學院 圖書推薦採訪整合系統",
+        "url": "http://163.15.202.116/weblink/",
+        "folder": "書籤列/已匯入/H-和春技術學院",
+        "date_added": "13163829615000000",
+        "source": "chrome"
+      },
+      {
+        "title": "WebLink - 實踐大學圖書館 圖書推薦採訪整合系統",
+        "url": "http://210.70.94.167/weblink/",
+        "folder": "書籤列/已匯入/S-實踐大學",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "WebLink - 崑山科技大學 圖書推薦採訪整合系統",
+        "url": "http://acq.lib.ksu.edu.tw/weblink",
+        "folder": "書籤列/已匯入/K-崑山科技大學",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "WebLink - 環球科技大學 圖書推薦採訪整合系統",
+        "url": "http://140.130.161.196/weblink/",
+        "folder": "書籤列/已匯入/H-環球科大",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "WebLink - 逢甲大學圖書館 線上薦購系統",
+        "url": "http://140.134.131.86/weblink/",
+        "folder": "書籤列/已匯入/F-逢甲大學",
+        "date_added": "13163829615000000",
+        "source": "chrome"
+      },
+      {
+        "title": "WebLink - 銘傳大學圖書推薦系統",
+        "url": "http://proffer.lib.mcu.edu.tw/weblink/",
+        "folder": "書籤列/已匯入/M-銘傳大學",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "WebOPAC - 環球科技大學圖書館 館藏目錄查詢系統",
+        "url": "http://140.130.151.208/webopac/",
+        "folder": "書籤列/已匯入/H-環球科大",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "X-新北市聯合醫院三重院區",
+        "url": "http://117.56.223.196:8080/mitopac/",
+        "folder": "書籤列/已匯入/X-新北市聯合醫院三重院區",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "中壢高中 - M7",
+        "url": "http://203.72.181.47/mitopac",
+        "folder": "書籤列/已匯入/Z-中壢高中",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "中港高中圖書館 館藏目錄查詢系統",
+        "url": "http://opac.cgsh.tc.edu.tw/webopac/",
+        "folder": "書籤列/已匯入/Z-中港高中",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "中華大學 M7圖書館",
+        "url": "http://140.126.15.11/mitopac/",
+        "folder": "書籤列/已匯入/Z-中華大學",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "倒數計時器",
+        "url": "https://tw.piliapp.com/timer/countdown/",
+        "folder": "書籤列",
+        "date_added": "13328155724615766",
+        "source": "chrome"
+      },
+      {
+        "title": "六和高中 圖書館",
+        "url": "http://www.lhvs.tyc.edu.tw/unit/webs/index.php?account=lib",
+        "folder": "書籤列/已匯入/L-六和高中",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "六和高中網路讀書會",
+        "url": "http://210.59.42.25/webreading/main.aspx",
+        "folder": "書籤列/已匯入/L-六和高中",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "加班費基礎如何計算？一篇教你分辨底薪與經常性薪資 | 信義律師代書聯合事務所",
+        "url": "https://lawhsinyi.com/blog/%E5%8A%A0%E7%8F%AD%E8%B2%BB%E7%9A%84%E5%9F%BA%E7%A4%8E%EF%BC%8C%E5%A6%82%E4%BD%95%E8%A8%88%E7%AE%97%E4%BB%80%E9%BA%BC%E6%98%AF%E7%B6%93%E5%B8%B8%E6%80%A7%E7%B5%A6%E8%88%87%E5%B7%A5%E8%B3%87%E8%88%87/",
+        "folder": "書籤列",
+        "date_added": "13323842043700767",
+        "source": "chrome"
+      },
+      {
+        "title": "台北市立第一女子高級中學圖書館圖書推薦採訪整合系統",
+        "url": "http://m7.fg.tp.edu.tw/weblink/",
+        "folder": "書籤列/已匯入/B-北一女",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "各系專業圖書統計 - 舊系統網頁",
+        "url": "http://210.240.228.3/uclass.aspx",
+        "folder": "書籤列/已匯入/H-弘光科大",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "啟英高中圖書館 館藏目錄查詢系統",
+        "url": "http://netlib.cyvs.tyc.edu.tw/webopac/",
+        "folder": "書籤列/已匯入/Q-啟英高中",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "國立中興高中圖書館 書刊目錄查詢網",
+        "url": "http://163.22.41.4/webopac/",
+        "folder": "書籤列/已匯入/Z-中興高中",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "國立南科國際實驗高級中學圖書館 - NEW",
+        "url": "http://203.145.200.74/mitopac/",
+        "folder": "書籤列/已匯入/N-南科實中",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "國立員林農工圖書館 書刊目錄查詢網",
+        "url": "http://163.23.165.249/webopac/",
+        "folder": "書籤列/已匯入/Y-員林農工",
+        "date_added": "13163829612000000",
+        "source": "chrome"
+      },
+      {
+        "title": "國立彰化師大附工圖書館 - M7",
+        "url": "http://163.23.182.80/mitopac/",
+        "folder": "書籤列/已匯入/Z-彰化師大附工",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "國立桃園農工圖書館 - M7",
+        "url": "http://203.68.250.11/mitopac/",
+        "folder": "書籤列/已匯入/T-桃園農工",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "國立臺中科技大學 - 圖書館圖書推薦系統",
+        "url": "http://weblink.nutc.edu.tw/weblink/",
+        "folder": "書籤列/已匯入/T-台中科技大學",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "國立金門高中圖書館",
+        "url": "http://210.59.70.207/mitopac/",
+        "folder": "書籤列/已匯入/J-金門高中",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "國立陽明高中圖書館 - M7",
+        "url": "http://203.72.33.20/mitopac/",
+        "folder": "書籤列/已匯入/Y-陽明高中",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "國軍聯合醫院圖書館高雄總院",
+        "url": "http://192.192.91.27/mitopac/",
+        "folder": "書籤列/已匯入/G-國防醫學院",
+        "date_added": "13175846925000000",
+        "source": "chrome"
+      },
+      {
+        "title": "圖書推薦採訪整合系統",
+        "url": "https://weblink.bookhouse.com.tw/WB2024/weblink001",
+        "folder": "書籤列",
+        "date_added": "13356077689857383",
+        "source": "chrome"
+      },
+      {
+        "title": "圖書推薦採訪整合系統",
+        "url": "http://220.130.59.161/wb2024/weblink001",
+        "folder": "書籤列",
+        "date_added": "13352778740860345",
+        "source": "chrome"
+      },
+      {
+        "title": "天主教耕莘醫院圖書館-新店院區",
+        "url": "http://lib.cth.org.tw/mitopac/",
+        "folder": "書籤列/已匯入/X-新店耕莘醫院",
+        "date_added": "13202792639000000",
+        "source": "chrome"
+      },
+      {
+        "title": "客戶登入端口",
+        "url": "http://192.168.6.10/libtools/M7bookmark.htm",
+        "folder": "書籤列",
+        "date_added": "13244864126000000",
+        "source": "chrome"
+      },
+      {
+        "title": "寶慶大學",
+        "url": "chrome-extension://hehijbfgiekmjfkfjpbkbammjbdenadd/nhc.htm#url=http://220.130.59.161/mitopac/",
+        "folder": "書籤列",
+        "date_added": "13227929032000000",
+        "source": "chrome"
+      },
+      {
+        "title": "崑山科大 - T2",
+        "url": "http://web.lib.ksu.edu.tw/Webpac2/msearch.dll/",
+        "folder": "書籤列/已匯入/K-崑山科技大學",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "崑山科技大學圖書館 館藏目錄查詢系統",
+        "url": "http://weblis.lib.ksu.edu.tw/webopac/",
+        "folder": "書籤列/已匯入/K-崑山科技大學",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "崑山科技大學專案管理系統 - redmine",
+        "url": "http://pm.lib.ksu.edu.tw:3000/",
+        "folder": "書籤列/已匯入/K-崑山科技大學",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "建功高中班級讀書會",
+        "url": "http://163.19.116.160/rw2004/",
+        "folder": "書籤列/已匯入/J-建功高中",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "後台 - 實踐大學圖書館",
+        "url": "http://210.70.94.170/mitopac/",
+        "folder": "書籤列/已匯入/S-實踐大學",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "慧日講堂圖書館 書刊目錄查詢網",
+        "url": "http://211.75.120.68/lwdhwebopac/",
+        "folder": "書籤列/已匯入/F-福嚴、慧日講堂",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "時雨中學圖書館",
+        "url": "http://163.20.177.16/mitopac/Default.aspx",
+        "folder": "書籤列/已匯入/S-時雨中學",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "東海大學附中圖書館圖書推薦採訪整合系統",
+        "url": "http://140.128.107.209:8000/weblink/",
+        "folder": "書籤列/已匯入/D-東海大學附中",
+        "date_added": "13163829616000000",
+        "source": "chrome"
+      },
+      {
+        "title": "桃園804 - 國軍醫院聯合圖書館桃園總院",
+        "url": "http://60.251.255.143/mitopac/",
+        "folder": "書籤列/已匯入/G-國防醫學院",
+        "date_added": "13163829615000000",
+        "source": "chrome"
+      },
+      {
+        "title": "桃園市立內壢高中圖書館",
+        "url": "http://lib.nlhs.tyc.edu.tw/mitopac/",
+        "folder": "書籤列/已匯入/N-內壢高中",
+        "date_added": "13207633729000000",
+        "source": "chrome"
+      },
+      {
+        "title": "桃園市立文華國小圖書室",
+        "url": "chrome-extension://hehijbfgiekmjfkfjpbkbammjbdenadd/nhc.htm#url=http://163.30.38.4:8081/mitopac/Indexs.aspx",
+        "folder": "書籤列/已匯入",
+        "date_added": "13231991121000000",
+        "source": "chrome"
+      },
+      {
+        "title": "桃園市立文華國小圖書室",
+        "url": "chrome-extension://hehijbfgiekmjfkfjpbkbammjbdenadd/nhc.htm#url=http://163.30.38.4:8081/mitopac/Default.aspx",
+        "folder": "書籤列/已匯入/W-文華國小",
+        "date_added": "13236662438000000",
+        "source": "chrome"
+      },
+      {
+        "title": "玄奘大學圖書館 館藏目錄查詢系統 - NEW",
+        "url": "http://210.60.62.8/webopac/",
+        "folder": "書籤列/已匯入/X-玄奘大學",
+        "date_added": "13163829612000000",
+        "source": "chrome"
+      },
+      {
+        "title": "第2組 IP - 崑山科技大學圖書館",
+        "url": "http://120.114.52.207/mitopac/",
+        "folder": "書籤列/已匯入/K-崑山科技大學",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "羅東高中圖書館 館藏目錄查詢系統",
+        "url": "http://120.101.70.35/webOPAC/",
+        "folder": "書籤列/已匯入/L-羅東高中",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "聖保祿醫院圖書館 書刊目錄查詢網",
+        "url": "http://lib.sph.org.tw/webopac/",
+        "folder": "書籤列/已匯入/S-聖保祿醫院",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "臺南護專圖書館",
+        "url": "chrome-extension://hehijbfgiekmjfkfjpbkbammjbdenadd/nhc.htm#url=http://210.71.102.184/mitopac/Indexs.aspx",
+        "folder": "書籤列/已匯入",
+        "date_added": "13238563186000000",
+        "source": "chrome"
+      },
+      {
+        "title": "舊的OPAC",
+        "url": "http://lib.au.edu.tw/?theme=au",
+        "folder": "書籤列/已匯入/Z-真理大學",
+        "date_added": "13163829611000000",
+        "source": "chrome"
+      },
+      {
+        "title": "舊系統 - 查館藏清單",
+        "url": "http://210.240.228.3/branchlsh.htm",
+        "folder": "書籤列/已匯入/H-弘光科大",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "華梵大學圖書館 - 圖書推薦採訪整合系統",
+        "url": "http://210.59.113.12/weblink/",
+        "folder": "書籤列/已匯入/H-華梵大學",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "華梵大學圖書館 館藏目錄查詢系統",
+        "url": "http://210.59.113.12/webopac/",
+        "folder": "書籤列/已匯入/H-華梵大學",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "金陵女中圖書館 館藏目錄查詢系統",
+        "url": "http://203.71.72.5/webopac/",
+        "folder": "書籤列/已匯入/J-金陵女中",
+        "date_added": "13163829614000000",
+        "source": "chrome"
+      },
+      {
+        "title": "門禁 - 文藻外語大學",
+        "url": "http://140.127.166.33/mitopac/Default.aspx",
+        "folder": "書籤列/已匯入/W-文藻外語大學",
+        "date_added": "13181707163000000",
+        "source": "chrome"
+      },
+      {
+        "title": "門諾醫院遠距醫療系統",
+        "url": "https://citrix.mch.org.tw/vpn/index.html",
+        "folder": "書籤列",
+        "date_added": "13311227290375478",
+        "source": "chrome"
+      },
+      {
+        "title": "關於Next",
+        "url": "http://localhost:3000/about",
+        "folder": "書籤列",
+        "date_added": "13296290012000000",
+        "source": "chrome"
+      },
+      {
+        "title": "馬偕紀念醫院圖書館 - 舊OPAC",
+        "url": "http://wpac.mmh.org.tw/",
+        "folder": "書籤列/已匯入/M-馬偕醫院",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      },
+      {
+        "title": "馬偕醫院圖書館 - 圖書推薦採訪整合系統",
+        "url": "http://203.69.180.182/weblink/",
+        "folder": "書籤列/已匯入/M-馬偕醫院",
+        "date_added": "13163829613000000",
+        "source": "chrome"
+      }
+    ],
+    "資安": [
+      {
+        "title": "mobSF漏洞扫描ipa包 - CodeAntenna",
+        "url": "https://codeantenna.com/a/zqPUI6cREN",
+        "folder": "書籤列/MB3 資安",
+        "date_added": "13304145463295491",
+        "source": "chrome"
+      },
+      {
+        "title": "ucbSearch Web 服務",
+        "url": "http://220.130.59.159/webopac/ucbSearch.asmx",
+        "folder": "書籤列/MB3 資安",
+        "date_added": "13312877558613570",
+        "source": "chrome"
+      },
+      {
+        "title": "用户对问题“应用程序突然停止并出现NSURLErrorDomain错误”的回答 - 问答 - 腾讯云开发者社区-腾讯云",
+        "url": "https://cloud.tencent.com/developer/ask/sof/1009035/answer/1424859",
+        "folder": "書籤列/MB3 資安",
+        "date_added": "13311916910203776",
+        "source": "chrome"
+      },
+      {
+        "title": "签名方法和验证 - 应用加固与安全检测 | 百度智能云文档",
+        "url": "https://cloud.baidu.com/doc/IAP/s/Ykm96d4c8",
+        "folder": "書籤列/MB3 資安",
+        "date_added": "13302670021422178",
+        "source": "chrome"
+      }
+    ],
+    "開發資源/GitHub": [
+      {
+        "title": "`navigation.goBack` crashes the app on Android · Issue #1300 · software-mansion/react-native-screens",
+        "url": "https://github.com/software-mansion/react-native-screens/issues/1300",
+        "folder": "書籤列",
+        "date_added": "13375424947263852",
+        "source": "chrome"
+      },
+      {
+        "title": "App Crashes - On upgrading to Android 14(SDK 34) · Issue #41288 · facebook/react-native · GitHub",
+        "url": "https://github.com/facebook/react-native/issues/41288",
+        "folder": "書籤列/RN",
+        "date_added": "13365227692298979",
+        "source": "chrome"
+      },
+      {
+        "title": "Command PhaseScriptExecution failed with a nonzero exit code · Issue #34474 · facebook/react-native · GitHub",
+        "url": "https://github.com/facebook/react-native/issues/34474",
+        "folder": "書籤列/RN",
+        "date_added": "13336467767976202",
+        "source": "chrome"
+      },
+      {
+        "title": "evollu/react-native-fcm: react native module for firebase cloud messaging and local notification",
+        "url": "https://github.com/evollu/react-native-fcm",
+        "folder": "書籤列/React",
+        "date_added": "13296728852000000",
+        "source": "chrome"
+      },
+      {
+        "title": "FCM推撥＿GitHub - zo0r/react-native-push-notification: React Native Local and Remote Notifications",
+        "url": "https://github.com/zo0r/react-native-push-notification",
+        "folder": "書籤列/React",
+        "date_added": "13290749593000000",
+        "source": "chrome"
+      },
+      {
+        "title": "GitHub - DatouHsu/learn-RxSwift: RxSwift範例跟一些學習心得",
+        "url": "https://github.com/DatouHsu/learn-RxSwift",
+        "folder": "書籤列/Swift",
+        "date_added": "13337247072888074",
+        "source": "chrome"
+      },
+      {
+        "title": "GitHub - dvsekhvalnov/jose-jwt: Ultimate Javascript Object Signing and Encryption (JOSE) and JSON Web Token (JWT) Implementation for .NET and .NET Core",
+        "url": "https://github.com/dvsekhvalnov/jose-jwt",
+        "folder": "書籤列/JS",
+        "date_added": "13233894744000000",
+        "source": "chrome"
+      },
+      {
+        "title": "GitHub - isdaviddong/LineBotSdkExample: LineBotSdk範例，包含純文字訊息、貼圖、圖片發送",
+        "url": "https://github.com/isdaviddong/LineBotSdkExample",
+        "folder": "書籤列/C#/LineBot",
+        "date_added": "13362216882220749",
+        "source": "chrome"
+      },
+      {
+        "title": "GitHub - jpush/jpush-react-native: JPush's officially supported React Native plugin (Android & iOS). 极光推送官方支持的 React Native 插件（Android & iOS）。",
+        "url": "https://github.com/jpush/jpush-react-native",
+        "folder": "書籤列/React",
+        "date_added": "13287120126000000",
+        "source": "chrome"
+      },
+      {
+        "title": "GitHub - PrashantMangukiya/SwiftUIDemo: UI demo based on Swift 3, Xcode 8, iOS 10",
+        "url": "https://github.com/PrashantMangukiya/SwiftUIDemo",
+        "folder": "書籤列/Swift",
+        "date_added": "13130576886000000",
+        "source": "chrome"
+      },
+      {
+        "title": "GitHub - ReactiveX/RxSwift: Reactive Programming in Swift",
+        "url": "https://github.com/ReactiveX/RxSwift/tree/main",
+        "folder": "書籤列/Swift",
+        "date_added": "13337249056307256",
+        "source": "chrome"
+      },
+      {
+        "title": "GitHub - revtel/react-native-nfc-manager: React Native NFC module for Android & iOS",
+        "url": "https://github.com/revtel/react-native-nfc-manager",
+        "folder": "書籤列/React",
+        "date_added": "13284453845000000",
+        "source": "chrome"
+      },
+      {
+        "title": "GitHub - xmartlabs/Eureka: Elegant iOS form builder in Swift",
+        "url": "https://github.com/xmartlabs/Eureka",
+        "folder": "書籤列/Swift",
+        "date_added": "13130576966000000",
+        "source": "chrome"
+      },
+      {
+        "title": "GitHub - yezihaohao/react-admin: react-admin system solution : react 后台管理系统解决方案",
+        "url": "https://github.com/yezihaohao/react-admin",
+        "folder": "書籤列/React",
+        "date_added": "13262927074000000",
+        "source": "chrome"
+      },
+      {
+        "title": "iJimmyWei/rn-fetch-blob: A project committed to making file access and data transfer easier, efficient for React Native developers.",
+        "url": "https://github.com/iJimmyWei/rn-fetch-blob",
+        "folder": "書籤列/React",
+        "date_added": "13297394875000000",
+        "source": "chrome"
+      },
+      {
+        "title": "IOS-APNsToken - onRegister() returns different token than messaging().getToken() · Issue #218 · react-native-push-notification/ios · GitHub",
+        "url": "https://github.com/react-native-push-notification/ios/issues/218",
+        "folder": "書籤列/React",
+        "date_added": "13290832412000000",
+        "source": "chrome"
+      },
+      {
+        "title": "IPA Binary Analysis issue when archiving Distribution and Development Provisiong profile it throws unrelated error · Issue #1516 · MobSF/Mobile-Security-Framework-MobSF",
+        "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1516",
+        "folder": "書籤列/MB3 資安",
+        "date_added": "13303893719994749",
+        "source": "chrome"
+      },
+      {
+        "title": "Issues · jpush/jpush-react-native · GitHub",
+        "url": "https://github.com/jpush/jpush-react-native/issues",
+        "folder": "書籤列/React",
+        "date_added": "13287045775000000",
+        "source": "chrome"
+      },
+      {
+        "title": "jpush-phonegap-plugin/Common_detail_api.md at master · jpush/jpush-phonegap-plugin",
+        "url": "https://github.com/jpush/jpush-phonegap-plugin/blob/master/doc/Common_detail_api.md#setalias",
+        "folder": "書籤列/React",
+        "date_added": "13287139695000000",
+        "source": "chrome"
+      },
+      {
+        "title": "Library has compilation issue with Android sdk 33 · Issue #2547 · react-native-webview/react-native-webview · GitHub",
+        "url": "https://github.com/react-native-webview/react-native-webview/issues/2547",
+        "folder": "書籤列/RN",
+        "date_added": "13337228012127491",
+        "source": "chrome"
+      },
+      {
+        "title": "Material Top Tab Navigator crashes on deployment build but on expo go simulation its working · Issue #12165 · react-navigation/react-navigation",
+        "url": "https://github.com/react-navigation/react-navigation/issues/12165",
+        "folder": "書籤列",
+        "date_added": "13375434156324930",
+        "source": "chrome"
+      },
+      {
+        "title": "mebjas/html5-qrcode: A cross platform HTML5 QR code reader. See end to end implementation at: https://scanapp.org",
+        "url": "https://github.com/mebjas/html5-qrcode",
+        "folder": "書籤列/nextJs",
+        "date_added": "13310813461391991",
+        "source": "chrome"
+      },
+      {
+        "title": "MobSF issue (com.learnium.RNDeviceInfo.RNDeviceReceiver) is not Protected. · Issue #452 · react-native-device-info/react-native-device-info · GitHub",
+        "url": "https://github.com/react-native-device-info/react-native-device-info/issues/452",
+        "folder": "書籤列/MB3 資安",
+        "date_added": "13302682816692215",
+        "source": "chrome"
+      },
+      {
+        "title": "Multiple Feature Improvements around Binary Analysis and NIAP support by ajinabraham · Pull Request #1558 · MobSF/Mobile-Security-Framework-MobSF · GitHub",
+        "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF/pull/1558",
+        "folder": "書籤列/MB3 資安",
+        "date_added": "13303468972504845",
+        "source": "chrome"
+      },
+      {
+        "title": "Not able to receive notification in any app state. · Issue #284 · react-native-push-notification/ios · GitHub",
+        "url": "https://github.com/react-native-push-notification/ios/issues/284",
+        "folder": "書籤列/React",
+        "date_added": "13290768505000000",
+        "source": "chrome"
+      },
+      {
+        "title": "rn-fetch-blob-Error when reading large file on Android · Issue #598 · itinance/react-native-fs",
+        "url": "https://github.com/itinance/react-native-fs/issues/598",
+        "folder": "書籤列/React",
+        "date_added": "13297339660000000",
+        "source": "chrome"
+      },
+      {
+        "title": "SQL Injection CWE-89 | Improper Neutralization of Special Elements used in an SQL Command · Issue #726 · react-native-async-storage/async-storage",
+        "url": "https://github.com/react-native-async-storage/async-storage/issues/726",
+        "folder": "書籤列/MB3 資安",
+        "date_added": "13303534442554602",
+        "source": "chrome"
+      },
+      {
+        "title": "SYMBOLS STRIPPED False positive · Issue #1917 · MobSF/Mobile-Security-Framework-MobSF · GitHub",
+        "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF/issues/1917",
+        "folder": "書籤列/MB3 資安",
+        "date_added": "13303465741465334",
+        "source": "chrome"
+      },
+      {
+        "title": "WebEngineerLi/react-captcha: 基于React和canvas的验证码包",
+        "url": "https://github.com/WebEngineerLi/react-captcha",
+        "folder": "書籤列/nextJs",
+        "date_added": "13316688555679329",
+        "source": "chrome"
+      },
+      {
+        "title": "上傳大檔案JS tus/tus-js-client: A pure JavaScript client for the tus resumable upload protocol",
+        "url": "https://github.com/tus/tus-js-client",
+        "folder": "書籤列/React",
+        "date_added": "13295588368000000",
+        "source": "chrome"
+      },
+      {
+        "title": "上傳大檔案發生錯誤討論Crashed to upload large files ( > 500MB): [Terminating app due to uncaught exception 'NSMallocException', reason: 'Failed to grow buffer'] · Issue #146 · tus/tus-js-client · GitHub",
+        "url": "https://github.com/tus/tus-js-client/issues/146",
+        "folder": "書籤列/React",
+        "date_added": "13295582411000000",
+        "source": "chrome"
+      },
+      {
+        "title": "上傳檔案套件itinance/react-native-fs: Native filesystem access for react-native",
+        "url": "https://github.com/itinance/react-native-fs",
+        "folder": "書籤列/React",
+        "date_added": "13295609060000000",
+        "source": "chrome"
+      },
+      {
+        "title": "上傳檔案進度GitHub - vinzscam/react-native-tus-client: React Native client for the tus resumable upload protocol.",
+        "url": "https://github.com/vinzscam/react-native-tus-client",
+        "folder": "書籤列/React",
+        "date_added": "13295580592000000",
+        "source": "chrome"
+      },
+      {
+        "title": "下拉臭蟲Unable to use DatePicker on IOS · Issue #663 · henninghall/react-native-date-picker · GitHub",
+        "url": "https://github.com/henninghall/react-native-date-picker/issues/663",
+        "folder": "書籤列/RN",
+        "date_added": "13336215801020784",
+        "source": "chrome"
+      },
+      {
+        "title": "中間loading，GitHub - wenxucheng/react-native-loading-w: react native loading, Suitable for Android and iOS",
+        "url": "https://github.com/wenxucheng/react-native-loading-w",
+        "folder": "書籤列/React",
+        "date_added": "13282716077000000",
+        "source": "chrome"
+      },
+      {
+        "title": "亮度＋＋GitHub - c19354837/react-native-system-setting: A library to access system setting, and change it easily. eg: volume, brightness, wifi",
+        "url": "https://github.com/c19354837/react-native-system-setting",
+        "folder": "書籤列/React",
+        "date_added": "13290232467000000",
+        "source": "chrome"
+      },
+      {
+        "title": "企業閃圖crazycodeboy/react-native-splash-screen: A splash screen for react-native, hide when application loaded ,it works on iOS and Android.",
+        "url": "https://github.com/crazycodeboy/react-native-splash-screen",
+        "folder": "書籤列/React",
+        "date_added": "13287553256000000",
+        "source": "chrome"
+      },
+      {
+        "title": "修正expo 安卓只能掃描一次問題[bare-code-scanner] Fix only scans on first mount on Android by lukmccall · Pull Request #15393 · expo/expo · GitHub",
+        "url": "https://github.com/expo/expo/pull/15393/commits/0411bc3a4a1b25fd992f5396a9a8a2eb62f62688",
+        "folder": "書籤列/React",
+        "date_added": "13284536709000000",
+        "source": "chrome"
+      },
+      {
+        "title": "多國語言 GitHub - zoontek/react-native-localize: 🌍 A toolbox for your React Native app localization",
+        "url": "https://github.com/zoontek/react-native-localize",
+        "folder": "書籤列/RN",
+        "date_added": "13358567921808284",
+        "source": "chrome"
+      },
+      {
+        "title": "左邊導航自訂GitHub - itzpradip/react-navigation-v6-mix",
+        "url": "https://github.com/itzpradip/react-navigation-v6-mix",
+        "folder": "書籤列/React",
+        "date_added": "13283341294000000",
+        "source": "chrome"
+      },
+      {
+        "title": "快速掃描GitHub - react-native-component/react-native-smart-barcode: A smart barcode scanner component for React Native app.",
+        "url": "https://github.com/react-native-component/react-native-smart-barcode",
+        "folder": "書籤列/React",
+        "date_added": "13281677013000000",
+        "source": "chrome"
+      },
+      {
+        "title": "新亮度 GitHub - cca6286pro/react-native-brightness: react-native-brightness",
+        "url": "https://github.com/cca6286pro/react-native-brightness",
+        "folder": "書籤列/RN",
+        "date_added": "13337341651118450",
+        "source": "chrome"
+      },
+      {
+        "title": "新亮度 待測試GitHub - xxl6097/rnbridgesdk: 应用于圆明视界OM系统控制设备的SDK",
+        "url": "https://github.com/xxl6097/rnbridgesdk",
+        "folder": "書籤列/RN",
+        "date_added": "13338550481743765",
+        "source": "chrome"
+      },
+      {
+        "title": "日期控件GitHub - react-native-datetimepicker/datetimepicker: React Native date & time picker component for iOS, Android and Windows",
+        "url": "https://github.com/react-native-datetimepicker/datetimepicker",
+        "folder": "書籤列/React",
+        "date_added": "13282737074000000",
+        "source": "chrome"
+      },
+      {
+        "title": "畫面待讀取GitHub - sarmad1995/react-native-easy-content-loader: A light weight and customisable content loader for react native apps, will work both on expo and init projects.",
+        "url": "https://github.com/sarmad1995/react-native-easy-content-loader",
+        "folder": "書籤列/React",
+        "date_added": "13282711310000000",
+        "source": "chrome"
+      },
+      {
+        "title": "背景上傳檔案套件Vydia/react-native-background-upload: Upload files in your React Native app even while it's backgrounded. Supports Android and iOS, including camera roll assets.",
+        "url": "https://github.com/Vydia/react-native-background-upload",
+        "folder": "書籤列/React",
+        "date_added": "13295609079000000",
+        "source": "chrome"
+      },
+      {
+        "title": "自訂網址hasura-node-monolith-example/next-auth.js at 2d95df91a8f049c065824cabfbdaacabb16be6b7 · zenflow/hasura-node-monolith-example",
+        "url": "https://github.com/zenflow/hasura-node-monolith-example/blob/2d95df91a8f049c065824cabfbdaacabb16be6b7/auth/routes/next-auth.js",
+        "folder": "書籤列/nextJs",
+        "date_added": "13309605814762567",
+        "source": "chrome"
+      },
+      {
+        "title": "臭蟲 DatePickerIOS module for 'react-native-date-picker' on only IOS. · Issue #37817 · facebook/react-native · GitHub",
+        "url": "https://github.com/facebook/react-native/issues/37817",
+        "folder": "書籤列/RN",
+        "date_added": "13336214669854641",
+        "source": "chrome"
+      },
+      {
+        "title": "表格RWD GitHub - coston/react-super-responsive-table: Turn the tables on unresponsive data!",
+        "url": "https://github.com/coston/react-super-responsive-table",
+        "folder": "書籤列/RN",
+        "date_added": "13321079916433395",
+        "source": "chrome"
+      },
+      {
+        "title": "載入更多GitHub - woowalker/react-native-ptr-control: custom refresh and load more component, supported ScrollView, ListView, FlatList and VirtualizedList",
+        "url": "https://github.com/woowalker/react-native-ptr-control",
+        "folder": "書籤列/React",
+        "date_added": "13282046013000000",
+        "source": "chrome"
+      },
+      {
+        "title": "返回頂部選項卡時發生錯誤 · 問題 #2461 · software-mansion/react-native-screens",
+        "url": "https://github.com/software-mansion/react-native-screens/issues/2461",
+        "folder": "書籤列",
+        "date_added": "13376128950531732",
+        "source": "chrome"
+      },
+      {
+        "title": "開啟檔案rnmods/react-native-document-picker: Document Picker for React Native using Document Providers",
+        "url": "https://github.com/rnmods/react-native-document-picker",
+        "folder": "書籤列/React",
+        "date_added": "13292500573000000",
+        "source": "chrome"
+      }
+    ],
+    "開發資源/MDN": [
+      {
+        "title": "JSON.stringify() - JavaScript | MDN",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify",
+        "folder": "書籤列/JS",
+        "date_added": "13227935174000000",
+        "source": "chrome"
+      },
+      {
+        "title": "建構子函數的使用 - JavaScript | MDN",
+        "url": "https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Obsolete_Pages/Obsolete_Pages/Obsolete_Pages/%E6%96%B0%E7%89%A9%E4%BB%B6%E7%9A%84%E5%BB%BA%E7%AB%8B/%E5%BB%BA%E6%A7%8B%E5%AD%90%E5%87%BD%E6%95%B8%E7%9A%84%E4%BD%BF%E7%94%A8",
+        "folder": "書籤列/JS",
+        "date_added": "13226219009000000",
+        "source": "chrome"
+      }
+    ],
+    "開發資源/Microsoft Docs": [
+      {
+        "title": "使用 Xamarin.Forms 建置行動應用程式 - Learn | Microsoft Docs",
+        "url": "https://docs.microsoft.com/zh-tw/learn/paths/build-mobile-apps-with-xamarin-forms/",
+        "folder": "書籤列/Xamarin",
+        "date_added": "13269497936000000",
+        "source": "chrome"
+      },
+      {
+        "title": "逐步解說：在 C# 中撰寫查詢 (LINQ) | Microsoft Docs",
+        "url": "https://docs.microsoft.com/zh-tw/dotnet/csharp/programming-guide/concepts/linq/walkthrough-writing-queries-linq",
+        "folder": "書籤列/C#/LINQ",
+        "date_added": "13270698683000000",
+        "source": "chrome"
+      }
+    ],
+    "開發資源/Stack Overflow": [
+      {
+        "title": "android - FCM notifications not working in release app - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/65488046/fcm-notifications-not-working-in-release-app",
+        "folder": "書籤列/React",
+        "date_added": "13296721367000000",
+        "source": "chrome"
+      },
+      {
+        "title": "android - How can I sign my app with \"APK Signature Scheme v3 and v4\"? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/59248088/how-can-i-sign-my-app-with-apk-signature-scheme-v3-and-v4",
+        "folder": "書籤列/MB3 資安",
+        "date_added": "13302602567723116",
+        "source": "chrome"
+      },
+      {
+        "title": "android - One of RECEIVER_EXPORTED or RECEIVER_NOT_EXPORTED should be specified when a receiver isn't being registered exclusively for system broadcasts - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/77235063/one-of-receiver-exported-or-receiver-not-exported-should-be-specified-when-a-rec",
+        "folder": "書籤列/RN",
+        "date_added": "13365227360816798",
+        "source": "chrome"
+      },
+      {
+        "title": "c# - MVC 5 | Error 400 Entity too large (Identity User has a lot of Roles) - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/71420353/mvc-5-error-400-entity-too-large-identity-user-has-a-lot-of-roles",
+        "folder": "書籤列/api core",
+        "date_added": "13306409543929803",
+        "source": "chrome"
+      },
+      {
+        "title": "compiler flags - Enable stack canaries in ios swift - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/46042641/enable-stack-canaries-in-ios-swift",
+        "folder": "書籤列/MB3 資安",
+        "date_added": "13303451676547658",
+        "source": "chrome"
+      },
+      {
+        "title": "firebase - FCM getting MismatchSenderId - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/37863106/fcm-getting-mismatchsenderid",
+        "folder": "書籤列/React",
+        "date_added": "13296792293000000",
+        "source": "chrome"
+      },
+      {
+        "title": "ios - Getting \"Caught Error Domain NSURLErrorDomain Code=-1200 \"An SSL error has occurred and a secure connection to the server cannot be made\"? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/73150368/getting-caught-error-domain-nsurlerrordomain-code-1200-an-ssl-error-has-occur",
+        "folder": "書籤列/MB3 資安",
+        "date_added": "13311916520008439",
+        "source": "chrome"
+      },
+      {
+        "title": "ios - How to make a push segue when a UITableViewCell is selected - Stack Overflow",
+        "url": "http://stackoverflow.com/questions/22759167/how-to-make-a-push-segue-when-a-uitableviewcell-is-selected",
+        "folder": "書籤列/Swift",
+        "date_added": "13131007496000000",
+        "source": "chrome"
+      },
+      {
+        "title": "ios - How to make HTTP request in Swift? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/24016142/how-to-make-http-request-in-swift",
+        "folder": "書籤列/Swift",
+        "date_added": "13337155501613440",
+        "source": "chrome"
+      },
+      {
+        "title": "ios - React Native: How to select the next TextInput after pressing the \"next\" keyboard button? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/32748718/react-native-how-to-select-the-next-textinput-after-pressing-the-next-keyboar",
+        "folder": "書籤列/RN",
+        "date_added": "13321702088981314",
+        "source": "chrome"
+      },
+      {
+        "title": "ios - Returning data from async call in Swift function - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/25203556/returning-data-from-async-call-in-swift-function",
+        "folder": "書籤列/Swift",
+        "date_added": "13339129249175208",
+        "source": "chrome"
+      },
+      {
+        "title": "iOS: UIStepper within UITableView Cells - Stack Overflow",
+        "url": "http://stackoverflow.com/questions/21728846/ios-uistepper-within-uitableview-cells",
+        "folder": "書籤列/Swift",
+        "date_added": "13130573873000000",
+        "source": "chrome"
+      },
+      {
+        "title": "javascript - DataTables cannot read property 'row' of undefined - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/59574713/datatables-cannot-read-property-row-of-undefined",
+        "folder": "書籤列/JS",
+        "date_added": "13231997775000000",
+        "source": "chrome"
+      },
+      {
+        "title": "javascript - How to pass json POST data to Web API method as an object? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/20226169/how-to-pass-json-post-data-to-web-api-method-as-an-object",
+        "folder": "書籤列/JS",
+        "date_added": "13227935964000000",
+        "source": "chrome"
+      },
+      {
+        "title": "javascript - VueJS V-For and bootstrap Cards in a Deck - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/59539305/vuejs-v-for-and-bootstrap-cards-in-a-deck",
+        "folder": "書籤列/Vue",
+        "date_added": "13245736781000000",
+        "source": "chrome"
+      },
+      {
+        "title": "reactjs - HTTPS on localhost using NextJS + Express - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/55304101/https-on-localhost-using-nextjs-express",
+        "folder": "書籤列/nextJs",
+        "date_added": "13310729686164747",
+        "source": "chrome"
+      },
+      {
+        "title": "swift - Changing a string's text when a button is pressed in SwiftUI - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/65622577/changing-a-strings-text-when-a-button-is-pressed-in-swiftui",
+        "folder": "書籤列/Swift",
+        "date_added": "13337148692246472",
+        "source": "chrome"
+      },
+      {
+        "title": "UITableView get titleForHeadersInSection swift - Stack Overflow",
+        "url": "http://stackoverflow.com/questions/27011131/uitableview-get-titleforheadersinsection-swift",
+        "folder": "書籤列/Swift",
+        "date_added": "13130996829000000",
+        "source": "chrome"
+      },
+      {
+        "title": "失效token _android - Firebase Cloud Messaging - How to validate Tokens? - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/38442434/firebase-cloud-messaging-how-to-validate-tokens",
+        "folder": "書籤列/React",
+        "date_added": "13296127663000000",
+        "source": "chrome"
+      },
+      {
+        "title": "手電筒javascript - TypeError: null is not an object (evaluating ''this.state.torchon') - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/62587786/typeerror-null-is-not-an-object-evaluating-this-state-torchon",
+        "folder": "書籤列/React",
+        "date_added": "13287804451000000",
+        "source": "chrome"
+      },
+      {
+        "title": "網站導航自訂 reactjs - Breadcrumbs and NextJS - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/64541235/breadcrumbs-and-nextjs",
+        "folder": "書籤列/nextJs",
+        "date_added": "13310790872989986",
+        "source": "chrome"
+      },
+      {
+        "title": "變更專案NAME,Change package name for Android in React Native - Stack Overflow",
+        "url": "https://stackoverflow.com/questions/37389905/change-package-name-for-android-in-react-native",
+        "folder": "書籤列/RN",
+        "date_added": "13320311131298092",
+        "source": "chrome"
+      }
+    ]
+  }
+}
