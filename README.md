@@ -1,5 +1,5 @@
 
-![image]([picture or gif url](https://github.com/qpooqp777/bookmark-manager-skill/blob/main/banana-var-0-1774574688766.png))
+![image](https://github.com/qpooqp777/bookmark-manager-skill/blob/main/banana-var-0-1774574688766.png)
 
 # Bookmark Manager
 
