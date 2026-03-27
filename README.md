@@ -1,3 +1,6 @@
+
+![image](picture or gif url)
+
 # Bookmark Manager
 
 An intelligent browser bookmark management skill for OpenClaw. Parse, search, organize, and export bookmarks from Chrome, Firefox, Safari, and Edge with AI-powered categorization.
